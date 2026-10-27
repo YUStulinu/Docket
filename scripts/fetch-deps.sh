@@ -12,7 +12,7 @@ fetch() { # url sha256 file
   local url="$1" sha="$2" file="$dest/downloads/$3"
   if [ ! -f "$file" ] || ! echo "$sha  $file" | sha256sum -c - >/dev/null 2>&1; then
     echo "downloading $url"
-    curl -fL --retry 3 -o "$file.part" "$url"
+    curl -fsSL --retry 3 -o "$file.part" "$url" || { echo "download failed: $url" >&2; exit 1; }
     echo "$sha  $file.part" | sha256sum -c - >/dev/null || { echo "checksum mismatch: $url" >&2; rm -f "$file.part"; exit 1; }
     mv "$file.part" "$file"
   fi
