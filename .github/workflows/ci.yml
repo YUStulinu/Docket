@@ -89,10 +89,9 @@ jobs:
             native/third_party/install/android-x86_64
           key: native-android-${{ hashFiles('scripts/fetch-deps.sh', 'scripts/build-deps.sh') }}
       - name: Native dependencies for Android
-        env:
-          ANDROID_NDK_HOME: ${{ env.ANDROID_HOME }}/ndk/29.0.14206865
         run: |
           set -o pipefail
+          export ANDROID_NDK_HOME="$ANDROID_HOME/ndk/29.0.14206865"
           # On failure the end of the log becomes an annotation, readable on the run's page.
           ( bash scripts/fetch-deps.sh android
             for abi in arm64-v8a x86_64; do
@@ -100,9 +99,7 @@ jobs:
             done ) 2>&1 | tee deps.log || { echo "::error::$(tail -12 deps.log | tr '\n' ' ')"; exit 1; }
       - name: Build the app
         working-directory: android
-        env:
-          ANDROID_NDK_HOME: ${{ env.ANDROID_HOME }}/ndk/29.0.14206865
-        run: ./gradlew assembleDebug testDebugUnitTest --console=plain
+        run: ANDROID_NDK_HOME="$ANDROID_HOME/ndk/29.0.14206865" ./gradlew assembleDebug testDebugUnitTest --console=plain
       - uses: actions/upload-artifact@v4
         with:
           name: docket-debug-apk
