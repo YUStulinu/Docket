@@ -54,6 +54,10 @@ rustup target add aarch64-linux-android x86_64-linux-android && cargo install ca
 cd android && ./gradlew assembleDebug       # also builds the Rust core (cargo-ndk) and its Kotlin bindings (UniFFI)
 ```
 
+On Windows, keep the checkout in a short path (`C:\src\Docket`, not deep in a temporary folder):
+MSVC's and CMake's test builds of the dependencies nest several folders deep and fail past the
+260-character path limit.
+
 `android/local.properties` points at the SDK (`sdk.dir=...`). The NDK's build tools dislike spaces in
 paths: if your SDK is in such a folder (`C:\Android SDK`), point at it through its short name
 (`C\:/ANDROI~1`).

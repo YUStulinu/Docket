@@ -124,9 +124,9 @@ class Repository(private val context: Context) {
 
     suspend fun addDocument(pages: List<PageInput>): Document = withContext(Dispatchers.Default) {
         loadModel() // a model still loading is waited for, not skipped
-        android.util.Log.i("docket", "adding a document; model: ${modelState.value}")
         val doc = docket.addDocument(pages, today())
-        android.util.Log.i("docket", "extracted with ${doc.extraction?.method} in ${doc.extraction?.seconds} s; rejected ${doc.extraction?.rejected}")
+        // How, and how fast; never what (the log is readable by anyone with adb).
+        android.util.Log.i("docket", "extracted with ${doc.extraction?.method} in ${doc.extraction?.seconds} s")
         changed()
         doc
     }
