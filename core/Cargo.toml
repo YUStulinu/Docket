@@ -1,0 +1,54 @@
+[package]
+name = "docket-core"
+version = "0.1.0"
+edition = "2024"
+description = "Docket's shared core: the encrypted vault, extraction checks, deadlines and reminders, search."
+license = "MIT"
+
+[lib]
+name = "docket_core"
+# cdylib for Android (loaded through UniFFI/JNA), rlib for the CLI and the tests.
+crate-type = ["cdylib", "rlib"]
+
+[[bin]]
+name = "docket"
+required-features = ["cli"]
+
+[[bin]]
+name = "uniffi-bindgen"
+path = "uniffi-bindgen.rs"
+required-features = ["bindgen"]
+
+[features]
+default = []
+# The desktop command line: talks to llama-server over HTTP for extraction and questions.
+cli = ["dep:clap", "dep:ureq"]
+bindgen = ["uniffi/cli"]
+
+[dependencies]
+argon2 = "0.6.0"
+base64 = "0.23.1"
+chacha20poly1305 = "0.11.0"
+chrono = { version = "0.4.45", default-features = false, features = ["std", "clock", "serde"] }
+getrandom = "0.4.3"
+hex = "0.4.3"
+regex = "1.13.1"
+serde = { version = "1.0.229", features = ["derive"] }
+serde_json = "1.0.154"
+sha2 = "0.11.1"
+thiserror = "2.0.21"
+uniffi = "0.32.2"
+unicode-normalization = "0.1.26"
+zeroize = { version = "1.9.1", features = ["derive"] }
+
+clap = { version = "4.6.7", features = ["derive"], optional = true }
+ureq = { version = "3.5.0", default-features = false, features = ["json"], optional = true }
+
+[dev-dependencies]
+tempfile = "3.27.0"
+
+[profile.release]
+opt-level = "z"
+lto = true
+codegen-units = 1
+strip = true

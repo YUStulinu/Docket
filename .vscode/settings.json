@@ -1,0 +1,13 @@
+{
+  "rust-analyzer.linkedProjects": ["core/Cargo.toml"],
+  "rust-analyzer.cargo.features": ["cli"],
+  "cmake.sourceDirectory": "${workspaceFolder}/native",
+  "cmake.buildDirectory": "${workspaceFolder}/native/build",
+  "C_Cpp.default.cppStandard": "c++20",
+  "python.analysis.extraPaths": ["tools"],
+  "python.testing.unittestEnabled": true,
+  "python.testing.cwd": "${workspaceFolder}/tools",
+  "python.testing.unittestArgs": ["-s", "tests", "-t", "."],
+  "files.exclude": { "core/target": true, "native/build": true, "android/.gradle": true, "**/__pycache__": true },
+  "search.exclude": { "core/target": true, "native/third_party": true, "native/build": true, "android/app/build": true, "testdata": true, "models": true, "tools/llama.cpp": true }
+}

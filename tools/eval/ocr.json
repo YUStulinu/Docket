@@ -1,0 +1,993 @@
+{
+ "date": "2026-10-27",
+ "raw": {
+  "pages": 31,
+  "cer_mean": 0.34075667737704346,
+  "cer_median": 0.29071803852889666,
+  "wer_mean": 0.4373837494613939,
+  "pages_cer_under_5pct": 0.3548387096774194,
+  "seconds_per_page": 0.48334398064516126,
+  "page_found": null,
+  "corner_error_mean": null,
+  "by_page": [
+   {
+    "page": "photos/rca-1-p1.jpg",
+    "flat": false,
+    "cer": 0.2907,
+    "wer": 0.4654
+   },
+   {
+    "page": "photos/talon-1-p1.jpg",
+    "flat": false,
+    "cer": 0.3184,
+    "wer": 0.5342
+   },
+   {
+    "page": "photos/rca-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0044,
+    "wer": 0.019
+   },
+   {
+    "page": "photos/talon-2-p1.jpg",
+    "flat": false,
+    "cer": 0.9428,
+    "wer": 1.0
+   },
+   {
+    "page": "photos/rca-3-p1.jpg",
+    "flat": false,
+    "cer": 0.192,
+    "wer": 0.2885
+   },
+   {
+    "page": "photos/talon-3-p1.jpg",
+    "flat": true,
+    "cer": 0.004,
+    "wer": 0.0278
+   },
+   {
+    "page": "photos/rca-4-p1.jpg",
+    "flat": false,
+    "cer": 0.3145,
+    "wer": 0.4214
+   },
+   {
+    "page": "photos/itp-1-p1.jpg",
+    "flat": false,
+    "cer": 0.2151,
+    "wer": 0.3286
+   },
+   {
+    "page": "photos/itp-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0095,
+    "wer": 0.0429
+   },
+   {
+    "page": "photos/casco-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0166,
+    "wer": 0.0513
+   },
+   {
+    "page": "photos/casco-2-p1.jpg",
+    "flat": false,
+    "cer": 0.088,
+    "wer": 0.141
+   },
+   {
+    "page": "photos/passport-1-p1.jpg",
+    "flat": true,
+    "cer": 0.0305,
+    "wer": 0.1837
+   },
+   {
+    "page": "photos/id-1-p1.jpg",
+    "flat": false,
+    "cer": 1.0,
+    "wer": 1.0
+   },
+   {
+    "page": "photos/licence-1-p1.jpg",
+    "flat": false,
+    "cer": 1.0,
+    "wer": 1.0
+   },
+   {
+    "page": "photos/passport-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0482,
+    "wer": 0.1633
+   },
+   {
+    "page": "photos/id-2-p1.jpg",
+    "flat": false,
+    "cer": 0.8466,
+    "wer": 1.0
+   },
+   {
+    "page": "photos/licence-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0207,
+    "wer": 0.1364
+   },
+   {
+    "page": "photos/warranty-0-p1.jpg",
+    "flat": true,
+    "cer": 0.0049,
+    "wer": 0.0268
+   },
+   {
+    "page": "photos/warranty-1-p1.jpg",
+    "flat": false,
+    "cer": 0.6944,
+    "wer": 1.0187
+   },
+   {
+    "page": "photos/warranty-2-p1.jpg",
+    "flat": false,
+    "cer": 0.9407,
+    "wer": 0.9908
+   },
+   {
+    "page": "photos/warranty-3-p1.jpg",
+    "flat": true,
+    "cer": 0.0063,
+    "wer": 0.0364
+   },
+   {
+    "page": "photos/warranty-4-p1.jpg",
+    "flat": false,
+    "cer": 0.2963,
+    "wer": 0.4455
+   },
+   {
+    "page": "photos/rent-1-p1.jpg",
+    "flat": false,
+    "cer": 0.2953,
+    "wer": 0.5625
+   },
+   {
+    "page": "photos/rent-1-p2.jpg",
+    "flat": false,
+    "cer": 0.6199,
+    "wer": 0.8704
+   },
+   {
+    "page": "photos/rent-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0896,
+    "wer": 0.1125
+   },
+   {
+    "page": "photos/rent-2-p2.jpg",
+    "flat": true,
+    "cer": 0.0028,
+    "wer": 0.0093
+   },
+   {
+    "page": "photos/invoice-0-p1.jpg",
+    "flat": false,
+    "cer": 0.829,
+    "wer": 0.85
+   },
+   {
+    "page": "photos/invoice-1-p1.jpg",
+    "flat": false,
+    "cer": 0.3498,
+    "wer": 0.4051
+   },
+   {
+    "page": "photos/invoice-2-p1.jpg",
+    "flat": true,
+    "cer": 0.015,
+    "wer": 0.0875
+   },
+   {
+    "page": "photos/invoice-3-p1.jpg",
+    "flat": false,
+    "cer": 0.5626,
+    "wer": 0.7778
+   },
+   {
+    "page": "photos/invoice-4-p1.jpg",
+    "flat": false,
+    "cer": 0.5149,
+    "wer": 0.5625
+   }
+  ]
+ },
+ "warp": {
+  "pages": 31,
+  "cer_mean": 0.03578492710199402,
+  "cer_median": 0.00788091068301226,
+  "wer_mean": 0.0846975953808208,
+  "pages_cer_under_5pct": 0.8709677419354839,
+  "seconds_per_page": 0.5236466806451613,
+  "page_found": 0.9523809523809523,
+  "corner_error_mean": 0.007554103971608526,
+  "by_page": [
+   {
+    "page": "photos/rca-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0079,
+    "wer": 0.0314
+   },
+   {
+    "page": "photos/talon-1-p1.jpg",
+    "flat": false,
+    "cer": 0.252,
+    "wer": 0.3014
+   },
+   {
+    "page": "photos/rca-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0044,
+    "wer": 0.019
+   },
+   {
+    "page": "photos/talon-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0059,
+    "wer": 0.0417
+   },
+   {
+    "page": "photos/rca-3-p1.jpg",
+    "flat": false,
+    "cer": 0.0054,
+    "wer": 0.0256
+   },
+   {
+    "page": "photos/talon-3-p1.jpg",
+    "flat": true,
+    "cer": 0.004,
+    "wer": 0.0278
+   },
+   {
+    "page": "photos/rca-4-p1.jpg",
+    "flat": false,
+    "cer": 0.0035,
+    "wer": 0.0189
+   },
+   {
+    "page": "photos/itp-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0075,
+    "wer": 0.0429
+   },
+   {
+    "page": "photos/itp-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0095,
+    "wer": 0.0429
+   },
+   {
+    "page": "photos/casco-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0111,
+    "wer": 0.0513
+   },
+   {
+    "page": "photos/casco-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0169,
+    "wer": 0.0769
+   },
+   {
+    "page": "photos/passport-1-p1.jpg",
+    "flat": true,
+    "cer": 0.0305,
+    "wer": 0.1837
+   },
+   {
+    "page": "photos/id-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0063,
+    "wer": 0.0606
+   },
+   {
+    "page": "photos/licence-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0,
+    "wer": 0.0
+   },
+   {
+    "page": "photos/passport-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0482,
+    "wer": 0.1633
+   },
+   {
+    "page": "photos/id-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0128,
+    "wer": 0.125
+   },
+   {
+    "page": "photos/licence-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0,
+    "wer": 0.0
+   },
+   {
+    "page": "photos/warranty-0-p1.jpg",
+    "flat": true,
+    "cer": 0.0049,
+    "wer": 0.0268
+   },
+   {
+    "page": "photos/warranty-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0366,
+    "wer": 0.243
+   },
+   {
+    "page": "photos/warranty-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0025,
+    "wer": 0.0183
+   },
+   {
+    "page": "photos/warranty-3-p1.jpg",
+    "flat": true,
+    "cer": 0.0063,
+    "wer": 0.0364
+   },
+   {
+    "page": "photos/warranty-4-p1.jpg",
+    "flat": false,
+    "cer": 0.0075,
+    "wer": 0.0455
+   },
+   {
+    "page": "photos/rent-1-p1.jpg",
+    "flat": false,
+    "cer": 0.278,
+    "wer": 0.3312
+   },
+   {
+    "page": "photos/rent-1-p2.jpg",
+    "flat": false,
+    "cer": 0.1992,
+    "wer": 0.2778
+   },
+   {
+    "page": "photos/rent-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0896,
+    "wer": 0.1125
+   },
+   {
+    "page": "photos/rent-2-p2.jpg",
+    "flat": true,
+    "cer": 0.0028,
+    "wer": 0.0093
+   },
+   {
+    "page": "photos/invoice-0-p1.jpg",
+    "flat": false,
+    "cer": 0.013,
+    "wer": 0.075
+   },
+   {
+    "page": "photos/invoice-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0114,
+    "wer": 0.0633
+   },
+   {
+    "page": "photos/invoice-2-p1.jpg",
+    "flat": true,
+    "cer": 0.015,
+    "wer": 0.0875
+   },
+   {
+    "page": "photos/invoice-3-p1.jpg",
+    "flat": false,
+    "cer": 0.0093,
+    "wer": 0.0494
+   },
+   {
+    "page": "photos/invoice-4-p1.jpg",
+    "flat": false,
+    "cer": 0.0074,
+    "wer": 0.0375
+   }
+  ]
+ },
+ "warp+flat": {
+  "pages": 31,
+  "cer_mean": 0.023420281770122193,
+  "cer_median": 0.009345794392523364,
+  "wer_mean": 0.07756225546621284,
+  "pages_cer_under_5pct": 0.8709677419354839,
+  "seconds_per_page": 0.5568830548387097,
+  "page_found": 0.9523809523809523,
+  "corner_error_mean": 0.007554103971608526,
+  "by_page": [
+   {
+    "page": "photos/rca-1-p1.jpg",
+    "flat": false,
+    "cer": 0.204,
+    "wer": 0.2201
+   },
+   {
+    "page": "photos/talon-1-p1.jpg",
+    "flat": false,
+    "cer": 0.1133,
+    "wer": 0.2603
+   },
+   {
+    "page": "photos/rca-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0044,
+    "wer": 0.019
+   },
+   {
+    "page": "photos/talon-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0039,
+    "wer": 0.0278
+   },
+   {
+    "page": "photos/rca-3-p1.jpg",
+    "flat": false,
+    "cer": 0.0071,
+    "wer": 0.0385
+   },
+   {
+    "page": "photos/talon-3-p1.jpg",
+    "flat": true,
+    "cer": 0.004,
+    "wer": 0.0278
+   },
+   {
+    "page": "photos/rca-4-p1.jpg",
+    "flat": false,
+    "cer": 0.0026,
+    "wer": 0.0126
+   },
+   {
+    "page": "photos/itp-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0057,
+    "wer": 0.0286
+   },
+   {
+    "page": "photos/itp-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0151,
+    "wer": 0.0714
+   },
+   {
+    "page": "photos/casco-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0111,
+    "wer": 0.0513
+   },
+   {
+    "page": "photos/casco-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0056,
+    "wer": 0.0256
+   },
+   {
+    "page": "photos/passport-1-p1.jpg",
+    "flat": true,
+    "cer": 0.0196,
+    "wer": 0.1429
+   },
+   {
+    "page": "photos/id-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0063,
+    "wer": 0.0606
+   },
+   {
+    "page": "photos/licence-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0,
+    "wer": 0.0
+   },
+   {
+    "page": "photos/passport-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0504,
+    "wer": 0.1633
+   },
+   {
+    "page": "photos/id-2-p1.jpg",
+    "flat": false,
+    "cer": 0.016,
+    "wer": 0.1562
+   },
+   {
+    "page": "photos/licence-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0,
+    "wer": 0.0
+   },
+   {
+    "page": "photos/warranty-0-p1.jpg",
+    "flat": true,
+    "cer": 0.0098,
+    "wer": 0.0536
+   },
+   {
+    "page": "photos/warranty-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0164,
+    "wer": 0.1028
+   },
+   {
+    "page": "photos/warranty-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0315,
+    "wer": 0.2018
+   },
+   {
+    "page": "photos/warranty-3-p1.jpg",
+    "flat": true,
+    "cer": 0.0075,
+    "wer": 0.0455
+   },
+   {
+    "page": "photos/warranty-4-p1.jpg",
+    "flat": false,
+    "cer": 0.035,
+    "wer": 0.2273
+   },
+   {
+    "page": "photos/rent-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0019,
+    "wer": 0.0125
+   },
+   {
+    "page": "photos/rent-1-p2.jpg",
+    "flat": false,
+    "cer": 0.0126,
+    "wer": 0.0741
+   },
+   {
+    "page": "photos/rent-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0896,
+    "wer": 0.1125
+   },
+   {
+    "page": "photos/rent-2-p2.jpg",
+    "flat": true,
+    "cer": 0.0056,
+    "wer": 0.0185
+   },
+   {
+    "page": "photos/invoice-0-p1.jpg",
+    "flat": false,
+    "cer": 0.0074,
+    "wer": 0.0375
+   },
+   {
+    "page": "photos/invoice-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0095,
+    "wer": 0.0506
+   },
+   {
+    "page": "photos/invoice-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0112,
+    "wer": 0.0625
+   },
+   {
+    "page": "photos/invoice-3-p1.jpg",
+    "flat": false,
+    "cer": 0.0093,
+    "wer": 0.0494
+   },
+   {
+    "page": "photos/invoice-4-p1.jpg",
+    "flat": false,
+    "cer": 0.0093,
+    "wer": 0.05
+   }
+  ]
+ },
+ "warp+binary": {
+  "pages": 31,
+  "cer_mean": 0.04029834324604615,
+  "cer_median": 0.011433597185576077,
+  "wer_mean": 0.10771207571716679,
+  "pages_cer_under_5pct": 0.8064516129032258,
+  "seconds_per_page": 0.6334171193548387,
+  "page_found": 0.9523809523809523,
+  "corner_error_mean": 0.007554103971608526,
+  "by_page": [
+   {
+    "page": "photos/rca-1-p1.jpg",
+    "flat": false,
+    "cer": 0.3371,
+    "wer": 0.3962
+   },
+   {
+    "page": "photos/talon-1-p1.jpg",
+    "flat": false,
+    "cer": 0.1309,
+    "wer": 0.3151
+   },
+   {
+    "page": "photos/rca-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0114,
+    "wer": 0.057
+   },
+   {
+    "page": "photos/talon-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0079,
+    "wer": 0.0417
+   },
+   {
+    "page": "photos/rca-3-p1.jpg",
+    "flat": false,
+    "cer": 0.0089,
+    "wer": 0.0449
+   },
+   {
+    "page": "photos/talon-3-p1.jpg",
+    "flat": true,
+    "cer": 0.0138,
+    "wer": 0.0694
+   },
+   {
+    "page": "photos/rca-4-p1.jpg",
+    "flat": false,
+    "cer": 0.0062,
+    "wer": 0.0314
+   },
+   {
+    "page": "photos/itp-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0113,
+    "wer": 0.0714
+   },
+   {
+    "page": "photos/itp-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0095,
+    "wer": 0.0429
+   },
+   {
+    "page": "photos/casco-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0129,
+    "wer": 0.0641
+   },
+   {
+    "page": "photos/casco-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0094,
+    "wer": 0.0513
+   },
+   {
+    "page": "photos/passport-1-p1.jpg",
+    "flat": true,
+    "cer": 0.0479,
+    "wer": 0.1224
+   },
+   {
+    "page": "photos/id-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0854,
+    "wer": 0.3333
+   },
+   {
+    "page": "photos/licence-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0338,
+    "wer": 0.1364
+   },
+   {
+    "page": "photos/passport-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0658,
+    "wer": 0.1633
+   },
+   {
+    "page": "photos/id-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0511,
+    "wer": 0.2188
+   },
+   {
+    "page": "photos/licence-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0,
+    "wer": 0.0
+   },
+   {
+    "page": "photos/warranty-0-p1.jpg",
+    "flat": true,
+    "cer": 0.0061,
+    "wer": 0.0446
+   },
+   {
+    "page": "photos/warranty-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0189,
+    "wer": 0.1028
+   },
+   {
+    "page": "photos/warranty-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0101,
+    "wer": 0.0642
+   },
+   {
+    "page": "photos/warranty-3-p1.jpg",
+    "flat": true,
+    "cer": 0.0063,
+    "wer": 0.0455
+   },
+   {
+    "page": "photos/warranty-4-p1.jpg",
+    "flat": false,
+    "cer": 0.02,
+    "wer": 0.1273
+   },
+   {
+    "page": "photos/rent-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0077,
+    "wer": 0.0437
+   },
+   {
+    "page": "photos/rent-1-p2.jpg",
+    "flat": false,
+    "cer": 0.2595,
+    "wer": 0.3704
+   },
+   {
+    "page": "photos/rent-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0039,
+    "wer": 0.0125
+   },
+   {
+    "page": "photos/rent-2-p2.jpg",
+    "flat": true,
+    "cer": 0.0042,
+    "wer": 0.0185
+   },
+   {
+    "page": "photos/invoice-0-p1.jpg",
+    "flat": false,
+    "cer": 0.0112,
+    "wer": 0.05
+   },
+   {
+    "page": "photos/invoice-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0133,
+    "wer": 0.0759
+   },
+   {
+    "page": "photos/invoice-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0206,
+    "wer": 0.1
+   },
+   {
+    "page": "photos/invoice-3-p1.jpg",
+    "flat": false,
+    "cer": 0.0131,
+    "wer": 0.0741
+   },
+   {
+    "page": "photos/invoice-4-p1.jpg",
+    "flat": false,
+    "cer": 0.0112,
+    "wer": 0.05
+   }
+  ]
+ },
+ "warp+flat/psm4": {
+  "pages": 31,
+  "cer_mean": 0.03214037020410422,
+  "cer_median": 0.009345794392523364,
+  "wer_mean": 0.08799996871118644,
+  "pages_cer_under_5pct": 0.8387096774193549,
+  "seconds_per_page": 0.5659447322580645,
+  "page_found": 0.9523809523809523,
+  "corner_error_mean": 0.007554103971608526,
+  "by_page": [
+   {
+    "page": "photos/rca-1-p1.jpg",
+    "flat": false,
+    "cer": 0.2224,
+    "wer": 0.2956
+   },
+   {
+    "page": "photos/talon-1-p1.jpg",
+    "flat": false,
+    "cer": 0.2109,
+    "wer": 0.3973
+   },
+   {
+    "page": "photos/rca-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0044,
+    "wer": 0.019
+   },
+   {
+    "page": "photos/talon-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0039,
+    "wer": 0.0278
+   },
+   {
+    "page": "photos/rca-3-p1.jpg",
+    "flat": false,
+    "cer": 0.0071,
+    "wer": 0.0385
+   },
+   {
+    "page": "photos/talon-3-p1.jpg",
+    "flat": true,
+    "cer": 0.004,
+    "wer": 0.0278
+   },
+   {
+    "page": "photos/rca-4-p1.jpg",
+    "flat": false,
+    "cer": 0.0026,
+    "wer": 0.0126
+   },
+   {
+    "page": "photos/itp-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0057,
+    "wer": 0.0286
+   },
+   {
+    "page": "photos/itp-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0151,
+    "wer": 0.0714
+   },
+   {
+    "page": "photos/casco-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0111,
+    "wer": 0.0513
+   },
+   {
+    "page": "photos/casco-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0056,
+    "wer": 0.0256
+   },
+   {
+    "page": "photos/passport-1-p1.jpg",
+    "flat": true,
+    "cer": 0.0196,
+    "wer": 0.1429
+   },
+   {
+    "page": "photos/id-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0063,
+    "wer": 0.0606
+   },
+   {
+    "page": "photos/licence-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0,
+    "wer": 0.0
+   },
+   {
+    "page": "photos/passport-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0504,
+    "wer": 0.1633
+   },
+   {
+    "page": "photos/id-2-p1.jpg",
+    "flat": false,
+    "cer": 0.016,
+    "wer": 0.1562
+   },
+   {
+    "page": "photos/licence-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0,
+    "wer": 0.0
+   },
+   {
+    "page": "photos/warranty-0-p1.jpg",
+    "flat": true,
+    "cer": 0.0098,
+    "wer": 0.0536
+   },
+   {
+    "page": "photos/warranty-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0164,
+    "wer": 0.1028
+   },
+   {
+    "page": "photos/warranty-2-p1.jpg",
+    "flat": false,
+    "cer": 0.0315,
+    "wer": 0.2018
+   },
+   {
+    "page": "photos/warranty-3-p1.jpg",
+    "flat": true,
+    "cer": 0.0075,
+    "wer": 0.0455
+   },
+   {
+    "page": "photos/warranty-4-p1.jpg",
+    "flat": false,
+    "cer": 0.035,
+    "wer": 0.2273
+   },
+   {
+    "page": "photos/rent-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0019,
+    "wer": 0.0125
+   },
+   {
+    "page": "photos/rent-1-p2.jpg",
+    "flat": false,
+    "cer": 0.1669,
+    "wer": 0.1852
+   },
+   {
+    "page": "photos/rent-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0896,
+    "wer": 0.1125
+   },
+   {
+    "page": "photos/rent-2-p2.jpg",
+    "flat": true,
+    "cer": 0.0056,
+    "wer": 0.0185
+   },
+   {
+    "page": "photos/invoice-0-p1.jpg",
+    "flat": false,
+    "cer": 0.0074,
+    "wer": 0.0375
+   },
+   {
+    "page": "photos/invoice-1-p1.jpg",
+    "flat": false,
+    "cer": 0.0095,
+    "wer": 0.0506
+   },
+   {
+    "page": "photos/invoice-2-p1.jpg",
+    "flat": true,
+    "cer": 0.0112,
+    "wer": 0.0625
+   },
+   {
+    "page": "photos/invoice-3-p1.jpg",
+    "flat": false,
+    "cer": 0.0093,
+    "wer": 0.0494
+   },
+   {
+    "page": "photos/invoice-4-p1.jpg",
+    "flat": false,
+    "cer": 0.0093,
+    "wer": 0.05
+   }
+  ]
+ }
+}

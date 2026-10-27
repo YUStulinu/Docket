@@ -1,0 +1,2113 @@
+{
+ "date": "2026-10-27",
+ "model": {
+  "questions": 48,
+  "correct": 0.7916666666666666,
+  "cites_document": 0.8958333333333334,
+  "cites_page": 0.875,
+  "correct_and_cited": 0.7291666666666666,
+  "wrong_but_verified": 9,
+  "by_question": [
+   {
+    "question": "Până când e valabil RCA-ul pentru B-797-NCA?",
+    "document": "rca-1",
+    "page": 1,
+    "answer": "2027-08-20",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rca-1",
+      1
+     ],
+     [
+      "casco-1",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "La ce firmă am asigurarea RCA pentru Volkswagen Golf?",
+    "document": "rca-1",
+    "page": 1,
+    "answer": "Generali România Asigurare Reasigurare S.A.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rca-1",
+      1
+     ],
+     [
+      "rca-4",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Când trebuie să fac ITP la mașina B-797-NCA?",
+    "document": "talon-1",
+    "page": 1,
+    "answer": "2026-08-21",
+    "verified": true,
+    "correct": false,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "itp-1",
+      1
+     ],
+     [
+      "itp-1",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Care e seria de șasiu a mașinii B-797-NCA?",
+    "document": "talon-1",
+    "page": 1,
+    "answer": "WVWF45H4JXLDL9F23",
+    "verified": true,
+    "correct": true,
+    "cites_document": false,
+    "cites_page": false,
+    "citations": [
+     [
+      "rca-4",
+      1
+     ],
+     [
+      "rca-1",
+      1
+     ],
+     [
+      "rca-4",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Până când e valabil RCA-ul pentru TM-87-NUA?",
+    "document": "rca-2",
+    "page": 1,
+    "answer": "2027-08-20",
+    "verified": true,
+    "correct": false,
+    "cites_document": false,
+    "cites_page": false,
+    "citations": [
+     [
+      "rca-4",
+      1
+     ],
+     [
+      "rca-1",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "La ce firmă am asigurarea RCA pentru Skoda Octavia?",
+    "document": "rca-2",
+    "page": 1,
+    "answer": "Generali România Asigurare Reasigurare S.A.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rca-2",
+      1
+     ],
+     [
+      "rca-2",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Când trebuie să fac ITP la mașina TM-87-NUA?",
+    "document": "talon-2",
+    "page": 1,
+    "answer": "12.05.2028",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "itp-1",
+      1
+     ],
+     [
+      "talon-2",
+      1
+     ],
+     [
+      "itp-2",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Care e seria de șasiu a mașinii TM-87-NUA?",
+    "document": "talon-2",
+    "page": 1,
+    "answer": "TMBZO1WHTSY0099MB",
+    "verified": true,
+    "correct": false,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "talon-2",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Până când e valabil RCA-ul pentru CJ-13-HZP?",
+    "document": "rca-3",
+    "page": 1,
+    "answer": "09.08.2027",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rca-3",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "La ce firmă am asigurarea RCA pentru Renault Clio?",
+    "document": "rca-3",
+    "page": 1,
+    "answer": "Allianz-Tiriac Asigurări S.A.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rca-3",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Când trebuie să fac ITP la mașina CJ-13-HZP?",
+    "document": "talon-3",
+    "page": 1,
+    "answer": "2026-12-12",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "talon-3",
+      1
+     ],
+     [
+      "talon-3",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Care e seria de șasiu a mașinii CJ-13-HZP?",
+    "document": "talon-3",
+    "page": 1,
+    "answer": "C1PGRMEUC4U8ZD960",
+    "verified": true,
+    "correct": true,
+    "cites_document": false,
+    "cites_page": false,
+    "citations": [
+     [
+      "rca-3",
+      1
+     ],
+     [
+      "rca-3",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Ce rezultat a avut inspecția tehnică din 21.08.2026?",
+    "document": "itp-1",
+    "page": 1,
+    "answer": "ADMIS",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "itp-1",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Ce rezultat a avut inspecția tehnică din 13.05.2026?",
+    "document": "itp-2",
+    "page": 1,
+    "answer": "ADMIS",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "itp-2",
+      1
+     ],
+     [
+      "itp-1",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Când expiră asigurarea CASCO pentru B-797-NCA?",
+    "document": "casco-1",
+    "page": 1,
+    "answer": "2027-07-21",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "casco-1",
+      1
+     ],
+     [
+      "casco-1",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Când expiră asigurarea CASCO pentru CJ-13-HZP?",
+    "document": "casco-2",
+    "page": 1,
+    "answer": "21.08.2027",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "casco-2",
+      1
+     ],
+     [
+      "casco-2",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Când expiră pașaportul lui Irina?",
+    "document": "passport-1",
+    "page": 1,
+    "answer": "2023-01-23",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "passport-1",
+      1
+     ],
+     [
+      "passport-1",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Până când e valabil buletinul lui Irina Marinescu?",
+    "document": "id-1",
+    "page": 1,
+    "answer": "2036-03-29",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "id-1",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Când expiră permisul de conducere al lui Irina?",
+    "document": "licence-1",
+    "page": 1,
+    "answer": "2029-01-13",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "licence-1",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Când expiră pașaportul lui Elena?",
+    "document": "passport-2",
+    "page": 1,
+    "answer": "2030-09-17",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "passport-2",
+      1
+     ],
+     [
+      "passport-2",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Până când e valabil buletinul lui Elena Stoica?",
+    "document": "id-2",
+    "page": 1,
+    "answer": "27.12.2035",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "id-2",
+      1
+     ],
+     [
+      "id-2",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Când expiră permisul de conducere al lui Elena?",
+    "document": "licence-2",
+    "page": 1,
+    "answer": "2031-10-08",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "licence-2",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Când expiră garanția la mașină de spălat?",
+    "document": "warranty-0",
+    "page": 1,
+    "answer": "2027-10-27",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-0",
+      1
+     ],
+     [
+      "warranty-0",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "De unde am cumpărat mașină Samsung?",
+    "document": "warranty-0",
+    "page": 1,
+    "answer": "Flanco Retail S.R.L.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-0",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Când expiră garanția la frigider?",
+    "document": "warranty-1",
+    "page": 1,
+    "answer": "2026-06-24",
+    "verified": true,
+    "correct": false,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-1",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "De unde am cumpărat frigider Arctic?",
+    "document": "warranty-1",
+    "page": 1,
+    "answer": "eMAG S.R.L.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-1",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Când expiră garanția la televizor?",
+    "document": "warranty-2",
+    "page": 1,
+    "answer": "2027-09-26",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-2",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "De unde am cumpărat televizor LG?",
+    "document": "warranty-2",
+    "page": 1,
+    "answer": "Am cumpărat televizorul LG de la eMAG S.R.L.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-2",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Când expiră garanția la laptop?",
+    "document": "warranty-3",
+    "page": 1,
+    "answer": "2030-02-16",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-3",
+      1
+     ],
+     [
+      "warranty-3",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "De unde am cumpărat laptop Lenovo?",
+    "document": "warranty-3",
+    "page": 1,
+    "answer": "Flanco Retail S.R.L.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-3",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Când expiră garanția la aspirator robot?",
+    "document": "warranty-4",
+    "page": 1,
+    "answer": "2028-02-21",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-4",
+      1
+     ],
+     [
+      "warranty-4",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "De unde am cumpărat aspirator Roborock?",
+    "document": "warranty-4",
+    "page": 1,
+    "answer": "Factura nr.: FLN24660207 din 21.02.2026",
+    "verified": true,
+    "correct": false,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-4",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Câtă chirie plătesc pentru apartamentul de pe Calea Victoriei?",
+    "document": "rent-1",
+    "page": 1,
+    "answer": "420 euro",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rent-1",
+      1
+     ],
+     [
+      "rent-2",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Cu câte zile înainte trebuie să anunț dacă vreau să mă mut din apartamentul de pe Calea Victoriei?",
+    "document": "rent-1",
+    "page": 2,
+    "answer": "30",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rent-1",
+      2
+     ],
+     [
+      "rent-2",
+      2
+     ]
+    ]
+   },
+   {
+    "question": "Când se termină contractul de închiriere pentru apartamentul de pe Calea Victoriei?",
+    "document": "rent-1",
+    "page": 1,
+    "answer": "2027-12-31",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rent-1",
+      1
+     ],
+     [
+      "rent-1",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Câtă chirie plătesc pentru apartamentul de pe Str. Mihai Eminescu?",
+    "document": "rent-2",
+    "page": 1,
+    "answer": "420 euro",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rent-1",
+      1
+     ],
+     [
+      "rent-2",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Cu câte zile înainte trebuie să anunț dacă vreau să mă mut din apartamentul de pe Str. Mihai Eminescu?",
+    "document": "rent-2",
+    "page": 2,
+    "answer": "30",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": false,
+    "citations": [
+     [
+      "rent-2",
+      1
+     ],
+     [
+      "rent-2",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Când se termină contractul de închiriere pentru apartamentul de pe Str. Mihai Eminescu?",
+    "document": "rent-2",
+    "page": 1,
+    "answer": "2027-12-31",
+    "verified": true,
+    "correct": false,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rent-2",
+      1
+     ],
+     [
+      "rent-1",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Până când trebuie plătită factura de la Enel din octombrie?",
+    "document": "invoice-0",
+    "page": 1,
+    "answer": "2026-10-04",
+    "verified": false,
+    "correct": false,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "invoice-0",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Cât am de plată la factura Enel din octombrie?",
+    "document": "invoice-0",
+    "page": 1,
+    "answer": "475,51 lei",
+    "verified": true,
+    "correct": false,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "invoice-0",
+      1
+     ],
+     [
+      "invoice-1",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Până când trebuie plătită factura de la Engie din octombrie?",
+    "document": "invoice-1",
+    "page": 1,
+    "answer": "01.10.2026",
+    "verified": true,
+    "correct": false,
+    "cites_document": false,
+    "cites_page": false,
+    "citations": [
+     [
+      "invoice-4",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Cât am de plată la factura Engie din octombrie?",
+    "document": "invoice-1",
+    "page": 1,
+    "answer": "475,51 lei",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "invoice-1",
+      1
+     ],
+     [
+      "invoice-1",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Până când trebuie plătită factura de la Digi din octombrie?",
+    "document": "invoice-2",
+    "page": 1,
+    "answer": "2026-11-19",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "invoice-2",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Cât am de plată la factura Digi din octombrie?",
+    "document": "invoice-2",
+    "page": 1,
+    "answer": "204,28 lei",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "invoice-2",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Până când trebuie plătită factura de la Apa din octombrie?",
+    "document": "invoice-3",
+    "page": 1,
+    "answer": "Pentru factura de la Apa Nova București S.A. pentru furnizarea de apă și canalizare, plățile trebuie plătește până la 02.11.2026.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "invoice-3",
+      1
+     ],
+     [
+      "invoice-3",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Cât am de plată la factura Apa din octombrie?",
+    "document": "invoice-3",
+    "page": 1,
+    "answer": "447,64 lei",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "invoice-3",
+      1
+     ],
+     [
+      "invoice-3",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Până când trebuie plătită factura de la Enel din septembrie?",
+    "document": "invoice-4",
+    "page": 1,
+    "answer": "04.11.2026",
+    "verified": true,
+    "correct": false,
+    "cites_document": false,
+    "cites_page": false,
+    "citations": [
+     [
+      "invoice-0",
+      1
+     ]
+    ]
+   },
+   {
+    "question": "Cât am de plată la factura Enel din septembrie?",
+    "document": "invoice-4",
+    "page": 1,
+    "answer": "La 11.09.2026, ați primit o factură de la Enel pentru energie electrică cu valoare de 131,02 lei, care expira la 01.10.2026.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "invoice-4",
+      1
+     ]
+    ]
+   }
+  ]
+ },
+ "search": {
+  "questions": 48,
+  "correct": 0.6458333333333334,
+  "cites_document": 0.8125,
+  "cites_page": 0.7916666666666666,
+  "correct_and_cited": 0.6458333333333334,
+  "wrong_but_verified": 17,
+  "by_question": [
+   {
+    "question": "Până când e valabil RCA-ul pentru B-797-NCA?",
+    "document": "rca-1",
+    "page": 1,
+    "found_first": false,
+    "found_top3": true,
+    "answer": "POLITA DE ASIGURARE RCA - VOLKSWAGEN GOLF, categoria M1, 1598 cm3, B 797 NCA, 20 — the last day the RCA policy covers: 2026-08-20 (20.08.2026) (expirat, nu mai e valabil). RCA-ul expiră, asigurarea auto obligatorie e valabilă până la. RCA policy (mandatory third-party car insurance). Perioada de valabilitate: de la 21.08.2025 până la 20.08.2026. MARINESCU IRINA, Omniasig Vienna Insurance Group S.A., B 797 NCA, VOLKSWAGEN GOLF, categoria M1, 1598 cm3",
+    "verified": true,
+    "correct": false,
+    "cites_document": false,
+    "cites_page": false,
+    "citations": [
+     [
+      "rca-4",
+      1
+     ]
+    ],
+    "hits": [
+     "rca-4",
+     "rca-1",
+     "itp-1",
+     "casco-1",
+     "rca-2"
+    ]
+   },
+   {
+    "question": "La ce firmă am asigurarea RCA pentru Volkswagen Golf?",
+    "document": "rca-1",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Poliza de asigurare RCA pentru vehicul Volkswagen Golf, categoria M1, 1598 cm3, — insurer (asigurător, firma de asigurări, la ce firmă): Generali România Asigurare Reasigurare S.A. Asigurător: Generali România Asigurare Reasigurare S.A,",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rca-1",
+      1
+     ]
+    ],
+    "hits": [
+     "rca-1",
+     "casco-1",
+     "rca-4",
+     "rca-3",
+     "rca-2"
+    ]
+   },
+   {
+    "question": "Când trebuie să fac ITP la mașina B-797-NCA?",
+    "document": "talon-1",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "RAPORT DE INSPECTIE TEHNICĂ PERIODICĂ - Inspectie Téhnica Periodică de ITP - Buc — plate (număr de înmatriculare, mașina): B-797-NCA. Număr de înmatriculare: B-797-NCA",
+    "verified": true,
+    "correct": false,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "itp-1",
+      1
+     ]
+    ],
+    "hits": [
+     "itp-1",
+     "casco-1",
+     "rca-1",
+     "rca-4",
+     "itp-1"
+    ]
+   },
+   {
+    "question": "Care e seria de șasiu a mașinii B-797-NCA?",
+    "document": "talon-1",
+    "page": 1,
+    "found_first": false,
+    "found_top3": false,
+    "answer": "POLITA DE ASIGURARE CASCO - Irina Marinescu - VOLKSWAGEN GOLF B-797-NCA - 17000. — vehicle (mașina, autoturism, marca și modelul): VOLKSWAGEN GOLF. Autoturism: VOLKSWAGEN GOLF, nr. înmatriculare B-797-NCA",
+    "verified": true,
+    "correct": false,
+    "cites_document": false,
+    "cites_page": false,
+    "citations": [
+     [
+      "casco-1",
+      1
+     ]
+    ],
+    "hits": [
+     "casco-1",
+     "rca-4",
+     "rca-1",
+     "itp-1",
+     "rca-4"
+    ]
+   },
+   {
+    "question": "Până când e valabil RCA-ul pentru TM-87-NUA?",
+    "document": "rca-2",
+    "page": 1,
+    "found_first": false,
+    "found_top3": true,
+    "answer": "Certificat de înmatriculare pentru vehicul Skoda Octavia TM 87 NUA, înmatriculat — the date the ITP inspection stops being valid: 2028-05-12 (12.05.2028) (în vigoare). ITP-ul expiră, inspecția tehnică periodică e valabilă până la. vehicle registration certificate (certificat de înmatriculare, talon), with the ITP validity stamp. Valabil până la: 12.05.2028. TM 87 NUA, OCTAVIA",
+    "verified": true,
+    "correct": false,
+    "cites_document": false,
+    "cites_page": false,
+    "citations": [
+     [
+      "talon-2",
+      1
+     ]
+    ],
+    "hits": [
+     "talon-2",
+     "rca-2",
+     "itp-2",
+     "rca-4",
+     "talon-2"
+    ]
+   },
+   {
+    "question": "La ce firmă am asigurarea RCA pentru Skoda Octavia?",
+    "document": "rca-2",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Poliza de asigurare RCA pentru vehicul Skoda Octavia, categoria M1, 1968 cm3, cu — insurer (asigurător, firma de asigurări, la ce firmă): Generali România Asigurare Reasigurare S.A.. Asigurător: Generali România Asigurare Reasigurare S.A.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rca-2",
+      1
+     ]
+    ],
+    "hits": [
+     "rca-2",
+     "rca-3",
+     "rca-2",
+     "rca-4",
+     "rca-1"
+    ]
+   },
+   {
+    "question": "Când trebuie să fac ITP la mașina TM-87-NUA?",
+    "document": "talon-2",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "RAPORT DE INSPECTIE TEHNICĂ PERIODICĂ - TIMISOARA — plate (număr de înmatriculare, mașina): TM-87-NUA. Număr de înmatriculare: TM-87-NUA",
+    "verified": true,
+    "correct": false,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "itp-2",
+      1
+     ]
+    ],
+    "hits": [
+     "itp-2",
+     "talon-2",
+     "rca-2",
+     "itp-1",
+     "talon-2"
+    ]
+   },
+   {
+    "question": "Care e seria de șasiu a mașinii TM-87-NUA?",
+    "document": "talon-2",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Certificat de înmatriculare pentru vehicul Skoda Octavia TM 87 NUA, înmatriculat — plate (număr de înmatriculare, mașina): TM 87 NUA. A. Număr de înmatriculare: TM 87 NUA",
+    "verified": true,
+    "correct": false,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "talon-2",
+      1
+     ]
+    ],
+    "hits": [
+     "talon-2",
+     "rca-2",
+     "itp-2",
+     "rca-2",
+     "talon-2"
+    ]
+   },
+   {
+    "question": "Până când e valabil RCA-ul pentru CJ-13-HZP?",
+    "document": "rca-3",
+    "page": 1,
+    "found_first": false,
+    "found_top3": true,
+    "answer": "Certificat de înmatriculare Renault Clio (număr de înmatriculare CJ 13 HZP) — the date the ITP inspection stops being valid: 2026-12-12 (12.12.2026) (în vigoare). ITP-ul expiră, inspecția tehnică periodică e valabilă până la. vehicle registration certificate (certificat de înmatriculare, talon), with the ITP validity stamp. Valabil până la: 12.12.2026. CJ 13 HZP, CLIO",
+    "verified": true,
+    "correct": false,
+    "cites_document": false,
+    "cites_page": false,
+    "citations": [
+     [
+      "talon-3",
+      1
+     ]
+    ],
+    "hits": [
+     "talon-3",
+     "rca-3",
+     "casco-2",
+     "rca-4",
+     "rca-2"
+    ]
+   },
+   {
+    "question": "La ce firmă am asigurarea RCA pentru Renault Clio?",
+    "document": "rca-3",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "POLITA DE ASIGURARE RCA - RENAULT CLIO, categoria M1, 999 cm3, C) 13 HZP, Seria — insurer (asigurător, firma de asigurări, la ce firmă): Allianz-Tiriac Asigurări S.A.. Asigurator: Allianz-Tiriac Asigurări S.A.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rca-3",
+      1
+     ]
+    ],
+    "hits": [
+     "rca-3",
+     "casco-2",
+     "rca-4",
+     "rca-2",
+     "rca-1"
+    ]
+   },
+   {
+    "question": "Când trebuie să fac ITP la mașina CJ-13-HZP?",
+    "document": "talon-3",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Certificat de înmatriculare Renault Clio (număr de înmatriculare CJ 13 HZP) — the date the ITP inspection stops being valid: 2026-12-12 (12.12.2026) (în vigoare). ITP-ul expiră, inspecția tehnică periodică e valabilă până la. vehicle registration certificate (certificat de înmatriculare, talon), with the ITP validity stamp. Valabil până la: 12.12.2026. CJ 13 HZP, CLIO",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "talon-3",
+      1
+     ]
+    ],
+    "hits": [
+     "talon-3",
+     "casco-2",
+     "itp-1",
+     "rca-3",
+     "talon-3"
+    ]
+   },
+   {
+    "question": "Care e seria de șasiu a mașinii CJ-13-HZP?",
+    "document": "talon-3",
+    "page": 1,
+    "found_first": false,
+    "found_top3": true,
+    "answer": "POLITA DE ASIGURARE CASCO - Bogdan Popa - RENAULT CLIO CJ-13-HZP - 22.08.2026 - — plate (număr de înmatriculare, mașina): CJ-13-HZP. Autoturism: RENAULT CLIO, nr. înmatriculare CJ-13-HZP",
+    "verified": true,
+    "correct": false,
+    "cites_document": false,
+    "cites_page": false,
+    "citations": [
+     [
+      "casco-2",
+      1
+     ]
+    ],
+    "hits": [
+     "casco-2",
+     "talon-3",
+     "rca-3",
+     "rca-3",
+     "casco-2"
+    ]
+   },
+   {
+    "question": "Ce rezultat a avut inspecția tehnică din 21.08.2026?",
+    "document": "itp-1",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "REGISTRUL AUTO ROMÂN Staţia ITP nr. 3323 - București RAPORT DE INSPECTIE TEHNICĂ PERIODICĂ Nr. 1442652 din 21.08.2026 Număr de înmatriculare: B-797-NCA Marca / Model: VOLKSWAGEN GOLF VIN: WVWF45H4JXLDL9F23 Kilometraj: 47000 km Data inspecției: 21.08.2026 Rezultat: ADMIS Următoarea inspecție până la: 20.08.2028 Defecte constatate: niciun defect major. Recomandare: verificarea uzurii placutelor de frână la următoarea revizie. Inspectorul tehnic certifică faptul că vehiculul a fost inspectat conform Ordinului MTI nr. 2133/2005.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "itp-1",
+      1
+     ]
+    ],
+    "hits": [
+     "itp-1",
+     "itp-2",
+     "itp-1",
+     "casco-2",
+     "rca-1"
+    ]
+   },
+   {
+    "question": "Ce rezultat a avut inspecția tehnică din 13.05.2026?",
+    "document": "itp-2",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "REGISTRUL AUTO ROMÂN Staţia ITP nr. 4426 - Timișoara RAPORT DE INSPECTIE TEHNICĂ PERIODICĂ Nr. 7977209 din 13.05.2026 Număr de înmatriculare: TM-87-NUA Marca / Model: SKODA OCTAVIA VIN: TMBZO1WHTSYO099MB Kilometraj: 127000 km Data inspectiei: 13.05.2026 Rezultat: ADMIS Următoarea inspecţie pana la: 12.05.2028 Defecte constatate: niciun defect major. Recomandare: verificarea uzurii placutelor de frână la următoarea revizie. Inspectorul tehnic certifică faptul că vehiculul a fost inspectat conform Ordinului MTI nr. 2133/2005.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "itp-2",
+      1
+     ]
+    ],
+    "hits": [
+     "itp-2",
+     "itp-2",
+     "itp-1",
+     "talon-2",
+     "talon-2"
+    ]
+   },
+   {
+    "question": "Când expiră asigurarea CASCO pentru B-797-NCA?",
+    "document": "casco-1",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "POLITA DE ASIGURARE CASCO - Irina Marinescu - VOLKSWAGEN GOLF B-797-NCA - 17000. — the last day the CASCO policy covers: 2027-07-21 (21.07.2027) (în vigoare). CASCO expiră, asigurarea e valabilă până la. CASCO policy (optional car insurance). Valabilă de la 22.07.2026 până la 21.07.2027. Irina Marinescu, Groupama Asigurări S.A., B-797-NCA, VOLKSWAGEN GOLF",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "casco-1",
+      1
+     ]
+    ],
+    "hits": [
+     "casco-1",
+     "rca-4",
+     "rca-1",
+     "casco-2",
+     "casco-1"
+    ]
+   },
+   {
+    "question": "Când expiră asigurarea CASCO pentru CJ-13-HZP?",
+    "document": "casco-2",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "POLITA DE ASIGURARE CASCO - Bogdan Popa - RENAULT CLIO CJ-13-HZP - 22.08.2026 - — the last day the CASCO policy covers: 2027-08-21 (21.08.2027) (în vigoare). CASCO expiră, asigurarea e valabilă până la. CASCO policy (optional car insurance). Valabilă de la 22.08.2026 până la 21.08.2027. Bogdan Popa, Groupama Asigurări S.A., CJ-13-HZP, RENAULT CLIO",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "casco-2",
+      1
+     ]
+    ],
+    "hits": [
+     "casco-2",
+     "talon-3",
+     "casco-2",
+     "casco-1",
+     "rca-3"
+    ]
+   },
+   {
+    "question": "Când expiră pașaportul lui Irina?",
+    "document": "passport-1",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "PASSEPORT — the passport's expiry date: 2023-01-23 (23.01.2023) (expirat, nu mai e valabil). pașaportul expiră, e valabil până la. passport. Data expirarii/Date of expiry 23 JAN 2023. MARINESCU IRINA",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "passport-1",
+      1
+     ]
+    ],
+    "hits": [
+     "passport-1",
+     "passport-2",
+     "id-1",
+     "passport-1",
+     "casco-1"
+    ]
+   },
+   {
+    "question": "Până când e valabil buletinul lui Irina Marinescu?",
+    "document": "id-1",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Carte de identitate (identity card) - MARINESCU IRINA - București - 2036-03-29 - — the identity card's expiry date: 2036-03-29 (29.03.2036) (în vigoare). buletinul, cartea de identitate expiră, e valabilă până la. identity card (carte de identitate). Valabilitate 29.03.26-29.03.2036. MARINESCU IRINA",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "id-1",
+      1
+     ]
+    ],
+    "hits": [
+     "id-1",
+     "id-2",
+     "casco-1",
+     "passport-1",
+     "warranty-1"
+    ]
+   },
+   {
+    "question": "Când expiră permisul de conducere al lui Irina?",
+    "document": "licence-1",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Permis de conducere română — the driving licence's expiry date: 2029-01-13 (13.01.2029) (în vigoare). permisul de conducere expiră, e valabil până la. driving licence (permis de conducere). 4b. 13.01.2029. MARINESCU",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "licence-1",
+      1
+     ]
+    ],
+    "hits": [
+     "licence-1",
+     "licence-2",
+     "passport-1",
+     "id-1",
+     "passport-2"
+    ]
+   },
+   {
+    "question": "Când expiră pașaportul lui Elena?",
+    "document": "passport-2",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "PASSEPORT — the passport's expiry date: 2030-09-17 (17.09.2030) (în vigoare). pașaportul expiră, e valabil până la. passport. Data expirarii/Date of expiry 17 SEP 2030. STOICA ELENA",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "passport-2",
+      1
+     ]
+    ],
+    "hits": [
+     "passport-2",
+     "passport-1",
+     "id-2",
+     "licence-2",
+     "passport-2"
+    ]
+   },
+   {
+    "question": "Până când e valabil buletinul lui Elena Stoica?",
+    "document": "id-2",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Carte de identitate STOICA ELENA — the identity card's expiry date: 2035-12-27 (27.12.2035) (în vigoare). buletinul, cartea de identitate expiră, e valabilă până la. identity card (carte de identitate). Valabilitate 27.12.25-27.12.2035. STOICA ELENA",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "id-2",
+      1
+     ]
+    ],
+    "hits": [
+     "id-2",
+     "id-1",
+     "passport-2",
+     "licence-2",
+     "rca-2"
+    ]
+   },
+   {
+    "question": "Când expiră permisul de conducere al lui Elena?",
+    "document": "licence-2",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "permis de conducere românia — the driving licence's expiry date: 2031-10-08 (08.10.2031) (în vigoare). permisul de conducere expiră, e valabil până la. driving licence (permis de conducere). 4b. 08.10.2031. STOICA ELENA",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "licence-2",
+      1
+     ]
+    ],
+    "hits": [
+     "licence-2",
+     "licence-1",
+     "passport-2",
+     "id-2",
+     "licence-2"
+    ]
+   },
+   {
+    "question": "Când expiră garanția la mașină de spălat?",
+    "document": "warranty-0",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Certificat de garantie pentru masina de spalat rufe Samsung — the last day of the warranty (purchase date plus the warranty period): 2027-10-27 (27.10.2027) (în vigoare). garanția expiră, se termină, e valabilă până la. warranty certificate (certificat de garanție) or a receipt with a warranty. Termen de garanţie: 24 de luni. Irina Marinescu, Masina de spalat rufe Samsung, Flanco Retail S.R.L.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-0",
+      1
+     ]
+    ],
+    "hits": [
+     "warranty-0",
+     "warranty-4",
+     "warranty-0",
+     "warranty-3",
+     "warranty-2"
+    ]
+   },
+   {
+    "question": "De unde am cumpărat mașină Samsung?",
+    "document": "warranty-0",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Certificat de garantie pentru masina de spalat rufe Samsung — seller (vânzător, magazin, furnizor, proprietar, de unde am cumpărat): Flanco Retail S.R.L.. Flanco Retail S.R.L.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-0",
+      1
+     ]
+    ],
+    "hits": [
+     "warranty-0",
+     "warranty-1",
+     "invoice-1",
+     "invoice-2",
+     "invoice-4"
+    ]
+   },
+   {
+    "question": "Când expiră garanția la frigider?",
+    "document": "warranty-1",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Certificat de garantie pentru frigider Arctic — the last day of the warranty (purchase date plus the warranty period): 2026-06-24 (24.06.2026) (expirat, nu mai e valabil). garanția expiră, se termină, e valabilă până la. warranty certificate (certificat de garanție) or a receipt with a warranty. Factura nr.: MGX50524179 din 24.06.2026. Irina Marinescu, Frigider Arctic, eMAG S.R.L.",
+    "verified": true,
+    "correct": false,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-1",
+      1
+     ]
+    ],
+    "hits": [
+     "warranty-1",
+     "warranty-4",
+     "warranty-3",
+     "warranty-2",
+     "warranty-0"
+    ]
+   },
+   {
+    "question": "De unde am cumpărat frigider Arctic?",
+    "document": "warranty-1",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Certificat de garantie pentru frigider Arctic — seller (vânzător, magazin, furnizor, proprietar, de unde am cumpărat): eMAG S.R.L.. Semnătura și ștampila vânzătorului",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-1",
+      1
+     ]
+    ],
+    "hits": [
+     "warranty-1",
+     "warranty-1",
+     "invoice-1",
+     "invoice-2",
+     "invoice-4"
+    ]
+   },
+   {
+    "question": "Când expiră garanția la televizor?",
+    "document": "warranty-2",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Certificat de garanție pentru televizor LED LG — the last day of the warranty (purchase date plus the warranty period): 2027-09-26 (26.09.2027) (în vigoare). garanția expiră, se termină, e valabilă până la. warranty certificate (certificat de garanție) or a receipt with a warranty. Termen de garantie: 36 de luni. Irina Marinescu, Televizor LED LG, eMAG S.R.L.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-2",
+      1
+     ]
+    ],
+    "hits": [
+     "warranty-2",
+     "warranty-4",
+     "warranty-3",
+     "warranty-0",
+     "warranty-1"
+    ]
+   },
+   {
+    "question": "De unde am cumpărat televizor LG?",
+    "document": "warranty-2",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Certificat de garanție pentru televizor LED LG — seller (vânzător, magazin, furnizor, proprietar, de unde am cumpărat): eMAG S.R.L.. eMAG S.R.L.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-2",
+      1
+     ]
+    ],
+    "hits": [
+     "warranty-2",
+     "warranty-1",
+     "invoice-1",
+     "invoice-2",
+     "invoice-4"
+    ]
+   },
+   {
+    "question": "Când expiră garanția la laptop?",
+    "document": "warranty-3",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Certificat de garanție pentru laptop Lenovo — the last day of the warranty (purchase date plus the warranty period): 2030-02-16 (16.02.2030) (în vigoare). garanția expiră, se termină, e valabilă până la. warranty certificate (certificat de garanție) or a receipt with a warranty. Termen de garanţie: 60 de luni. Irina Marinescu, Laptop Lenovo, Flanco Retail S.R.L.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-3",
+      1
+     ]
+    ],
+    "hits": [
+     "warranty-3",
+     "warranty-4",
+     "warranty-2",
+     "warranty-0",
+     "warranty-3"
+    ]
+   },
+   {
+    "question": "De unde am cumpărat laptop Lenovo?",
+    "document": "warranty-3",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Certificat de garanție pentru laptop Lenovo — seller (vânzător, magazin, furnizor, proprietar, de unde am cumpărat): Flanco Retail S.R.L.. Flanco Retail S.R.L.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-3",
+      1
+     ]
+    ],
+    "hits": [
+     "warranty-3",
+     "warranty-1",
+     "invoice-1",
+     "invoice-2",
+     "warranty-3"
+    ]
+   },
+   {
+    "question": "Când expiră garanția la aspirator robot?",
+    "document": "warranty-4",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Certificat de garantie Aspirator robot Roborock — the last day of the warranty (purchase date plus the warranty period): 2028-02-21 (21.02.2028) (în vigoare). garanția expiră, se termină, e valabilă până la. warranty certificate (certificat de garanție) or a receipt with a warranty. Termen de garantie: 24 de luni. Aspirator robot Roborock, Factura nr.: FLN24660207",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-4",
+      1
+     ]
+    ],
+    "hits": [
+     "warranty-4",
+     "warranty-4",
+     "warranty-3",
+     "warranty-2",
+     "warranty-0"
+    ]
+   },
+   {
+    "question": "De unde am cumpărat aspirator Roborock?",
+    "document": "warranty-4",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Certificat de garantie Aspirator robot Roborock — seller (vânzător, magazin, furnizor, proprietar, de unde am cumpărat): Factura nr.: FLN24660207. Factura nr.: FLN24660207 din 21.02.2026",
+    "verified": true,
+    "correct": false,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "warranty-4",
+      1
+     ]
+    ],
+    "hits": [
+     "warranty-4",
+     "warranty-1",
+     "warranty-4",
+     "invoice-1",
+     "invoice-2"
+    ]
+   },
+   {
+    "question": "Câtă chirie plătesc pentru apartamentul de pe Calea Victoriei?",
+    "document": "rent-1",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Contract de închiriere nr. 66 din 30.12.2025 — amount (sumă de plată, total, cât costă, cât plătesc, chiria): 420 euro. 4.1. Chiria lunară este de 420 euro, plătibilă in lei la cursul BNR din ziua plăţii, până la",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rent-1",
+      1
+     ]
+    ],
+    "hits": [
+     "rent-1",
+     "rent-2",
+     "invoice-1",
+     "invoice-4",
+     "invoice-0"
+    ]
+   },
+   {
+    "question": "Cu câte zile înainte trebuie să anunț dacă vreau să mă mut din apartamentul de pe Calea Victoriei?",
+    "document": "rent-1",
+    "page": 2,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "electrică, gaze și internet. VI. ÎNCETAREA CONTRACTULUI 6.1. Oricare dintre parti poate denunta unilateral contractul cu un preaviz de 30 de zile, notificat în scris. 6.2. Contractul încetează de drept la expirarea duratei pentru care a fost încheiat, dacă nu este prelungit. VII. DISPOZIȚII FINALE 7.1. Prezentul contract a fost încheiat în două exem 1 plare originale, cate unul pentru",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rent-1",
+      2
+     ]
+    ],
+    "hits": [
+     "rent-1",
+     "rent-2",
+     "rent-1",
+     "rent-1",
+     "rent-2"
+    ]
+   },
+   {
+    "question": "Când se termină contractul de închiriere pentru apartamentul de pe Calea Victoriei?",
+    "document": "rent-1",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Contract de închiriere nr. 66 din 30.12.2025 — the date the contract ends: 2027-12-31 (31.12.2027) (în vigoare). contractul expiră, se termină, încetează. rent contract (contract de închiriere). 3.1. Contractul se încheie pe o perioadă de 24 de luni, începând cu data de 01.01.2026.. Calea Victoriei nr. 10, București, MARINESCU IRINA, GHEORGHE CRISTINA",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rent-1",
+      1
+     ]
+    ],
+    "hits": [
+     "rent-1",
+     "rent-1",
+     "rent-2",
+     "rent-2",
+     "id-2"
+    ]
+   },
+   {
+    "question": "Câtă chirie plătesc pentru apartamentul de pe Str. Mihai Eminescu?",
+    "document": "rent-2",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "D9, ap. 59, Timișoara, compus din 2 camere și dependințe, mobilat și utilat.",
+    "verified": true,
+    "correct": false,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rent-2",
+      1
+     ]
+    ],
+    "hits": [
+     "rent-2",
+     "rent-1",
+     "rent-2",
+     "invoice-1",
+     "invoice-4"
+    ]
+   },
+   {
+    "question": "Cu câte zile înainte trebuie să anunț dacă vreau să mă mut din apartamentul de pe Str. Mihai Eminescu?",
+    "document": "rent-2",
+    "page": 2,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "D9, ap. 59, Timișoara, compus din 2 camere și dependințe, mobilat și utilat.",
+    "verified": true,
+    "correct": false,
+    "cites_document": true,
+    "cites_page": false,
+    "citations": [
+     [
+      "rent-2",
+      1
+     ]
+    ],
+    "hits": [
+     "rent-2",
+     "rent-2",
+     "rent-1",
+     "rent-2",
+     "invoice-1"
+    ]
+   },
+   {
+    "question": "Când se termină contractul de închiriere pentru apartamentul de pe Str. Mihai Eminescu?",
+    "document": "rent-2",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "D9, ap. 59, Timișoara, compus din 2 camere și dependințe, mobilat și utilat.",
+    "verified": true,
+    "correct": false,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "rent-2",
+      1
+     ]
+    ],
+    "hits": [
+     "rent-2",
+     "rent-2",
+     "rent-1",
+     "rent-1",
+     "rent-2"
+    ]
+   },
+   {
+    "question": "Până când trebuie plătită factura de la Enel din octombrie?",
+    "document": "invoice-0",
+    "page": 1,
+    "found_first": false,
+    "found_top3": true,
+    "answer": "Factură fiscală de energie electrică — the payment due date (scadență): 2026-10-01 (01.10.2026) (expirat, nu mai e valabil). factura e scadentă, trebuie plătită până la, termen de plată. invoice or bill (factură) with a due date. Data scadentei: 01.10.2026. Bd. luliu Maniu nr. 62, București, Irina Marinescu, Enel Energie Muntenia S.A.",
+    "verified": true,
+    "correct": false,
+    "cites_document": false,
+    "cites_page": false,
+    "citations": [
+     [
+      "invoice-4",
+      1
+     ]
+    ],
+    "hits": [
+     "invoice-4",
+     "invoice-0",
+     "invoice-1",
+     "invoice-2",
+     "invoice-3"
+    ]
+   },
+   {
+    "question": "Cât am de plată la factura Enel din octombrie?",
+    "document": "invoice-0",
+    "page": 1,
+    "found_first": false,
+    "found_top3": true,
+    "answer": "Factură fiscală de energie electrică — the payment due date (scadență): 2026-10-01 (01.10.2026) (expirat, nu mai e valabil). factura e scadentă, trebuie plătită până la, termen de plată. invoice or bill (factură) with a due date. Data scadentei: 01.10.2026. Bd. luliu Maniu nr. 62, București, Irina Marinescu, Enel Energie Muntenia S.A.",
+    "verified": true,
+    "correct": false,
+    "cites_document": false,
+    "cites_page": false,
+    "citations": [
+     [
+      "invoice-4",
+      1
+     ]
+    ],
+    "hits": [
+     "invoice-4",
+     "invoice-0",
+     "invoice-4",
+     "invoice-0",
+     "invoice-3"
+    ]
+   },
+   {
+    "question": "Până când trebuie plătită factura de la Engie din octombrie?",
+    "document": "invoice-1",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Factură fiscală de gaz natural — the payment due date (scadență): 2026-11-03 (03.11.2026) (în vigoare). factura e scadentă, trebuie plătită până la, termen de plată. invoice or bill (factură) with a due date. Data scadentei: 03.11.2026. Bd. luliu Maniu nr. 62, București, lrina Marinescu, Engie Romania S.A.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "invoice-1",
+      1
+     ]
+    ],
+    "hits": [
+     "invoice-1",
+     "invoice-4",
+     "invoice-2",
+     "invoice-0",
+     "invoice-3"
+    ]
+   },
+   {
+    "question": "Cât am de plată la factura Engie din octombrie?",
+    "document": "invoice-1",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Engie Romania S.A. Furnizor de gaze naturale FACTURĂ FISCALĂ Seria EGR nr. 11887886 Client: lrina Marinescu Adresa locului de consum: Bd. luliu Maniu nr. 62, București Cod client: 8085620518 Data facturii: 14.10.2026 Perioada de facturare: 12.09.2026 - 11.10.2026 Valoare fără TVA: 475,51 lei Total de plată: 475,51 lei Data scadentei: 03.11.2026 Plata se poate face online, prin internet banking, la bancomatele partenere sau în magazinele cu serviciul de încasare facturi. Neplata la termen atrage penalitati de 0,04% pe zi.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "invoice-1",
+      1
+     ]
+    ],
+    "hits": [
+     "invoice-1",
+     "invoice-4",
+     "invoice-1",
+     "invoice-3",
+     "invoice-2"
+    ]
+   },
+   {
+    "question": "Până când trebuie plătită factura de la Digi din octombrie?",
+    "document": "invoice-2",
+    "page": 1,
+    "found_first": false,
+    "found_top3": true,
+    "answer": "Factură fiscală de energie electrică — the payment due date (scadență): 2026-10-01 (01.10.2026) (expirat, nu mai e valabil). factura e scadentă, trebuie plătită până la, termen de plată. invoice or bill (factură) with a due date. Data scadentei: 01.10.2026. Bd. luliu Maniu nr. 62, București, Irina Marinescu, Enel Energie Muntenia S.A.",
+    "verified": true,
+    "correct": false,
+    "cites_document": false,
+    "cites_page": false,
+    "citations": [
+     [
+      "invoice-4",
+      1
+     ]
+    ],
+    "hits": [
+     "invoice-4",
+     "invoice-2",
+     "invoice-1",
+     "invoice-0",
+     "invoice-3"
+    ]
+   },
+   {
+    "question": "Cât am de plată la factura Digi din octombrie?",
+    "document": "invoice-2",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Digi Romania S.A. Furnizor de internet și televiziune FACTURĂ FISCALĂ Seria DGR nr. 46486810 Client: Irina Marinescu Adresa locului de consum: Bd. luliu Maniu nr. 62, Bucuresti Cod client: 4545110121 Data facturii: 20.10.2026 Perioada de facturare: 18.09.2026 - 17.10.2026 Valoare fără TVA: 204,28 lei Total de plată: 204,28 lei Data scadentei: 19.11.2026 Plata se poate face online, prin internet banking, la bancomatele partenere sau in magazinele cu serviciul de încasare facturi. Neplata la termen atrage penalitati de 0,04% pe zi.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "invoice-2",
+      1
+     ]
+    ],
+    "hits": [
+     "invoice-2",
+     "invoice-4",
+     "invoice-2",
+     "invoice-3",
+     "invoice-1"
+    ]
+   },
+   {
+    "question": "Până când trebuie plătită factura de la Apa din octombrie?",
+    "document": "invoice-3",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Factură fiscală pentru furnizarea de apă și canalizare — the payment due date (scadență): 2026-11-02 (02.11.2026) (în vigoare). factura e scadentă, trebuie plătită până la, termen de plată. invoice or bill (factură) with a due date. Data scadentei: 02.11.2026. Bd. luliu Maniu nr. 62, Bucuresti, Irina Marinescu, Apa Nova București S.A.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "invoice-3",
+      1
+     ]
+    ],
+    "hits": [
+     "invoice-3",
+     "invoice-4",
+     "invoice-1",
+     "invoice-2",
+     "invoice-0"
+    ]
+   },
+   {
+    "question": "Cât am de plată la factura Apa din octombrie?",
+    "document": "invoice-3",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Apa Nova București S.A. Furnizor de apă și canalizare FACTURĂ FISCALĂ Seria APN nr. 82285360 Client: Irina Marinescu Adresa locului de consum: Bd. luliu Maniu nr. 62, Bucuresti Cod client: 2479752404 Data facturii: 18.10.2026 Perioada de facturare: 17.09.2026 - 16.10.2026 Valoare fără TVA: 447,64 lei Total de plată: 447,64 lei Data scadentei: 02.11.2026 Plata se poate face online, prin internet",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "invoice-3",
+      1
+     ]
+    ],
+    "hits": [
+     "invoice-3",
+     "invoice-3",
+     "invoice-4",
+     "invoice-1",
+     "invoice-2"
+    ]
+   },
+   {
+    "question": "Până când trebuie plătită factura de la Enel din septembrie?",
+    "document": "invoice-4",
+    "page": 1,
+    "found_first": false,
+    "found_top3": true,
+    "answer": "Factură fiscală de energie electrică — the payment due date (scadență): 2026-11-04 (04.11.2026) (în vigoare). factura e scadentă, trebuie plătită până la, termen de plată. invoice or bill (factură) with a due date. Data scadentei: 04.11.2026. Bd. luliu Maniu nr. 62, Bucureşti, Irina Marinescu, Enel Energie Muntenia S.A.",
+    "verified": true,
+    "correct": false,
+    "cites_document": false,
+    "cites_page": false,
+    "citations": [
+     [
+      "invoice-0",
+      1
+     ]
+    ],
+    "hits": [
+     "invoice-0",
+     "invoice-4",
+     "invoice-1",
+     "invoice-2",
+     "invoice-3"
+    ]
+   },
+   {
+    "question": "Cât am de plată la factura Enel din septembrie?",
+    "document": "invoice-4",
+    "page": 1,
+    "found_first": true,
+    "found_top3": true,
+    "answer": "Enel Energie Muntenia S.A. Furnizor de energie electrică FACTURĂ FISCALĂ Seria ENM nr. 95541975 Client: Irina Marinescu Adresa locului de consum: Bd. luliu Maniu nr. 62, București Cod client: 6550948898 Data facturii: 11.09.2026 Perioada de facturare: 10.08.2026 - 09.09.2026 Valoare fără TVA: 131,02 lei Total de plată: 131,02 lei Data scadentei: 01.10.2026 Plata se poate face online, prin internet banking, la bancomatele partenere sau in magazinele cu serviciul de încasare facturi. Neplata la termen atrage penalitati de 0,04% pe zi.",
+    "verified": true,
+    "correct": true,
+    "cites_document": true,
+    "cites_page": true,
+    "citations": [
+     [
+      "invoice-4",
+      1
+     ]
+    ],
+    "hits": [
+     "invoice-4",
+     "invoice-0",
+     "invoice-0",
+     "invoice-4",
+     "invoice-3"
+    ]
+   }
+  ],
+  "retrieval_first": 0.8125,
+  "retrieval_top3": 0.9791666666666666
+ }
+}

@@ -1,0 +1,43 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Docket: core tests (Rust)",
+      "type": "shell",
+      "command": "cargo test",
+      "options": { "cwd": "${workspaceFolder}/core" },
+      "group": { "kind": "test", "isDefault": true },
+      "problemMatcher": ["$rustc"]
+    },
+    {
+      "label": "Docket: native build and tests (C++)",
+      "type": "shell",
+      "command": "cmake --build native/build --config Release && ctest --test-dir native/build -C Release --output-on-failure",
+      "group": "build",
+      "problemMatcher": ["$msCompile", "$gcc"]
+    },
+    {
+      "label": "Docket: Android app (debug APK)",
+      "type": "shell",
+      "command": "./gradlew assembleDebug",
+      "options": { "cwd": "${workspaceFolder}/android" },
+      "group": { "kind": "build", "isDefault": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Docket: Android tests on the emulator",
+      "type": "shell",
+      "command": "./gradlew connectedDebugAndroidTest",
+      "options": { "cwd": "${workspaceFolder}/android" },
+      "group": "test",
+      "problemMatcher": []
+    },
+    {
+      "label": "Docket: evaluate (OCR, extraction, questions; needs the model)",
+      "type": "shell",
+      "command": "python -m docket_tools.evaluate all",
+      "options": { "cwd": "${workspaceFolder}/tools" },
+      "problemMatcher": []
+    }
+  ]
+}

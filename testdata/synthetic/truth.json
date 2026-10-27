@@ -1,0 +1,1767 @@
+{
+ "today": "2026-10-27",
+ "seed": 12,
+ "documents": [
+  {
+   "id": "rca-1",
+   "kind": "rca",
+   "flat": false,
+   "fields": {
+    "plate": "B-797-NCA",
+    "vin": "WVWF45H4JXLDL9F23",
+    "insurer": "Generali România Asigurare Reasigurare S.A."
+   },
+   "deadlines": [
+    {
+     "kind": "rca_expiry",
+     "date": "2027-08-20"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/rca-1-p1.jpg",
+     "clean": "clean/rca-1-p1.png",
+     "corners": [
+      [
+       315.9,
+       327.8
+      ],
+      [
+       1516.2,
+       193.1
+      ],
+      [
+       1716.9,
+       1937.4
+      ],
+      [
+       424.0,
+       2002.3
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "ASIGURARE OBLIGATORIE DE RĂSPUNDERE CIVILĂ AUTO\nPOLIȚĂ DE ASIGURARE RCA\nSeria RO/17/X31/KL Nr. 8523390452\nAsigurător: Generali România Asigurare Reasigurare S.A.\nAsigurat / Contractant: MARINESCU IRINA\nAdresa: Bd. Iuliu Maniu nr. 62, București\nVehicul: VOLKSWAGEN GOLF, categoria M1, 1598 cm3\nNumăr de înmatriculare: B 797 NCA\nSerie șasiu (VIN): WVWF45H4JXLDL9F23\nPerioada de valabilitate: de la 21.08.2026 până la 20.08.2027\nPrima de asigurare: 1094,00 lei\nData emiterii: 21.08.2026\nÎn caz de producere a unui eveniment asigurat, contactați asigurătorul în termen de 24 de ore\nși completați formularul de constatare amiabilă a accidentului.\nPrezenta poliță a fost emisă în conformitate cu prevederile Legii nr. 132/2017 privind\nasigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin\naccidente de vehicule și tramvaie și ale normelor emise de Autoritatea de Supraveghere\nFinanciară.\nAsigurătorul acordă despăgubiri pentru prejudiciile de care asiguratul răspunde în baza legii\nfață de terțe persoane prejudiciate prin accidente de vehicule, precum și pentru cheltuielile\nfăcute de asigurat în procesul civil."
+    }
+   ]
+  },
+  {
+   "id": "talon-1",
+   "kind": "vehicle_registration",
+   "flat": false,
+   "fields": {
+    "plate": "B-797-NCA",
+    "vin": "WVWF45H4JXLDL9F23",
+    "vehicle": "VOLKSWAGEN GOLF"
+   },
+   "deadlines": [
+    {
+     "kind": "itp_expiry",
+     "date": "2028-08-20"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/talon-1-p1.jpg",
+     "clean": "clean/talon-1-p1.png",
+     "corners": [
+      [
+       443.6,
+       449.0
+      ],
+      [
+       1526.8,
+       405.5
+      ],
+      [
+       1579.1,
+       1843.2
+      ],
+      [
+       404.7,
+       1969.1
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "ROMÂNIA\nCERTIFICAT DE ÎNMATRICULARE\nSeria C588205413\nA. Număr de înmatriculare: B 797 NCA\nB. Data primei înmatriculări: 16.10.2022\nC.1.1. Nume: MARINESCU\nC.1.2. Prenume: IRINA\nC.1.3. Adresa: Bd. Iuliu Maniu nr. 62, București\nD.1. Marca: VOLKSWAGEN\nD.3. Model: GOLF\nE. Număr de identificare: WVWF45H4JXLDL9F23\nJ. Categoria vehiculului: M1\nP.1. Capacitate cilindrică: 1598 cm3\nS.1. Număr de locuri: 5\nINSPECȚIE TEHNICĂ PERIODICĂ (ITP)\nData ITP: 21.08.2026\nValabil până la: 20.08.2028\nStația: RAR București, cod 902"
+    }
+   ]
+  },
+  {
+   "id": "rca-2",
+   "kind": "rca",
+   "flat": true,
+   "fields": {
+    "plate": "TM-87-NUA",
+    "vin": "TMBZ01WHTSY0099MB",
+    "insurer": "Generali România Asigurare Reasigurare S.A."
+   },
+   "deadlines": [
+    {
+     "kind": "rca_expiry",
+     "date": "2027-09-25"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/rca-2-p1.jpg",
+     "clean": "clean/rca-2-p1.png",
+     "corners": [
+      [
+       77.0,
+       36.0
+      ],
+      [
+       1723.0,
+       36.0
+      ],
+      [
+       1723.0,
+       2364.0
+      ],
+      [
+       77.0,
+       2364.0
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "ASIGURARE OBLIGATORIE DE RĂSPUNDERE CIVILĂ AUTO\nPOLIȚĂ DE ASIGURARE RCA\nSeria RO/25/X90/XZ Nr. 4727490458\nAsigurător: Generali România Asigurare Reasigurare S.A.\nAsigurat / Contractant: STOICA ELENA\nAdresa: Calea Victoriei nr. 72, Timișoara\nVehicul: SKODA OCTAVIA, categoria M1, 1968 cm3\nNumăr de înmatriculare: TM 87 NUA\nSerie șasiu (VIN): TMBZ01WHTSY0099MB\nPerioada de valabilitate: de la 26.09.2026 până la 25.09.2027\nPrima de asigurare: 1911,00 lei\nData emiterii: 21.09.2026\nAsigurătorul acordă despăgubiri pentru prejudiciile de care asiguratul răspunde în baza legii\nfață de terțe persoane prejudiciate prin accidente de vehicule, precum și pentru cheltuielile\nfăcute de asigurat în procesul civil.\nPrezenta poliță a fost emisă în conformitate cu prevederile Legii nr. 132/2017 privind\nasigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin\naccidente de vehicule și tramvaie și ale normelor emise de Autoritatea de Supraveghere\nFinanciară.\nÎn caz de producere a unui eveniment asigurat, contactați asigurătorul în termen de 24 de ore\nși completați formularul de constatare amiabilă a accidentului."
+    }
+   ]
+  },
+  {
+   "id": "talon-2",
+   "kind": "vehicle_registration",
+   "flat": false,
+   "fields": {
+    "plate": "TM-87-NUA",
+    "vin": "TMBZ01WHTSY0099MB",
+    "vehicle": "SKODA OCTAVIA"
+   },
+   "deadlines": [
+    {
+     "kind": "itp_expiry",
+     "date": "2028-05-12"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/talon-2-p1.jpg",
+     "clean": "clean/talon-2-p1.png",
+     "corners": [
+      [
+       375.7,
+       456.5
+      ],
+      [
+       1509.4,
+       281.2
+      ],
+      [
+       1645.5,
+       1910.7
+      ],
+      [
+       554.4,
+       2055.0
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "ROMÂNIA\nCERTIFICAT DE ÎNMATRICULARE\nSeria H000284623\nA. Număr de înmatriculare: TM 87 NUA\nB. Data primei înmatriculări: 02.07.2018\nC.1.1. Nume: STOICA\nC.1.2. Prenume: ELENA\nC.1.3. Adresa: Calea Victoriei nr. 72, Timișoara\nD.1. Marca: SKODA\nD.3. Model: OCTAVIA\nE. Număr de identificare: TMBZ01WHTSY0099MB\nJ. Categoria vehiculului: M1\nP.1. Capacitate cilindrică: 1968 cm3\nS.1. Număr de locuri: 5\nINSPECȚIE TEHNICĂ PERIODICĂ (ITP)\nData ITP: 13.05.2026\nValabil până la: 12.05.2028\nStația: RAR Timișoara, cod 305"
+    }
+   ]
+  },
+  {
+   "id": "rca-3",
+   "kind": "rca",
+   "flat": false,
+   "fields": {
+    "plate": "CJ-13-HZP",
+    "vin": "C1PGRMEUC4U8ZD960",
+    "insurer": "Allianz-Țiriac Asigurări S.A."
+   },
+   "deadlines": [
+    {
+     "kind": "rca_expiry",
+     "date": "2027-08-09"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/rca-3-p1.jpg",
+     "clean": "clean/rca-3-p1.png",
+     "corners": [
+      [
+       267.1,
+       336.4
+      ],
+      [
+       1408.6,
+       304.5
+      ],
+      [
+       1535.7,
+       2184.5
+      ],
+      [
+       274.7,
+       2242.1
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "ASIGURARE OBLIGATORIE DE RĂSPUNDERE CIVILĂ AUTO\nPOLIȚĂ DE ASIGURARE RCA\nSeria RO/27/X82/XZ Nr. 0669163985\nAsigurător: Allianz-Țiriac Asigurări S.A.\nAsigurat / Contractant: POPA BOGDAN\nAdresa: Aleea Teiului nr. 48, Cluj-Napoca\nVehicul: RENAULT CLIO, categoria M1, 999 cm3\nNumăr de înmatriculare: CJ 13 HZP\nSerie șasiu (VIN): C1PGRMEUC4U8ZD960\nPerioada de valabilitate: de la 10.08.2026 până la 09.08.2027\nPrima de asigurare: 1354,00 lei\nData emiterii: 05.08.2026\nÎn caz de producere a unui eveniment asigurat, contactați asigurătorul în termen de 24 de ore\nși completați formularul de constatare amiabilă a accidentului.\nAsigurătorul acordă despăgubiri pentru prejudiciile de care asiguratul răspunde în baza legii\nfață de terțe persoane prejudiciate prin accidente de vehicule, precum și pentru cheltuielile\nfăcute de asigurat în procesul civil.\nPrezenta poliță a fost emisă în conformitate cu prevederile Legii nr. 132/2017 privind\nasigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin\naccidente de vehicule și tramvaie și ale normelor emise de Autoritatea de Supraveghere\nFinanciară."
+    }
+   ]
+  },
+  {
+   "id": "talon-3",
+   "kind": "vehicle_registration",
+   "flat": true,
+   "fields": {
+    "plate": "CJ-13-HZP",
+    "vin": "C1PGRMEUC4U8ZD960",
+    "vehicle": "RENAULT CLIO"
+   },
+   "deadlines": [
+    {
+     "kind": "itp_expiry",
+     "date": "2026-12-12"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/talon-3-p1.jpg",
+     "clean": "clean/talon-3-p1.png",
+     "corners": [
+      [
+       77.0,
+       36.0
+      ],
+      [
+       1723.0,
+       36.0
+      ],
+      [
+       1723.0,
+       2364.0
+      ],
+      [
+       77.0,
+       2364.0
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "ROMÂNIA\nCERTIFICAT DE ÎNMATRICULARE\nSeria R200168361\nA. Număr de înmatriculare: CJ 13 HZP\nB. Data primei înmatriculări: 10.06.2015\nC.1.1. Nume: POPA\nC.1.2. Prenume: BOGDAN\nC.1.3. Adresa: Aleea Teiului nr. 48, Cluj-Napoca\nD.1. Marca: RENAULT\nD.3. Model: CLIO\nE. Număr de identificare: C1PGRMEUC4U8ZD960\nJ. Categoria vehiculului: M1\nP.1. Capacitate cilindrică: 999 cm3\nS.1. Număr de locuri: 5\nINSPECȚIE TEHNICĂ PERIODICĂ (ITP)\nData ITP: 13.12.2024\nValabil până la: 12.12.2026\nStația: RAR Cluj-Napoca, cod 827"
+    }
+   ]
+  },
+  {
+   "id": "rca-4",
+   "kind": "rca",
+   "flat": false,
+   "fields": {
+    "plate": "B-797-NCA",
+    "vin": "WVWF45H4JXLDL9F23",
+    "insurer": "Omniasig Vienna Insurance Group S.A."
+   },
+   "deadlines": [
+    {
+     "kind": "rca_expiry",
+     "date": "2026-08-20"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/rca-4-p1.jpg",
+     "clean": "clean/rca-4-p1.png",
+     "corners": [
+      [
+       419.3,
+       346.3
+      ],
+      [
+       1686.6,
+       391.8
+      ],
+      [
+       1546.8,
+       2134.2
+      ],
+      [
+       233.1,
+       1960.7
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "ASIGURARE OBLIGATORIE DE RĂSPUNDERE CIVILĂ AUTO\nPOLIȚĂ DE ASIGURARE RCA\nSeria RO/18/X98/KL Nr. 9913896931\nAsigurător: Omniasig Vienna Insurance Group S.A.\nAsigurat / Contractant: MARINESCU IRINA\nAdresa: Bd. Iuliu Maniu nr. 62, București\nVehicul: VOLKSWAGEN GOLF, categoria M1, 1598 cm3\nNumăr de înmatriculare: B 797 NCA\nSerie șasiu (VIN): WVWF45H4JXLDL9F23\nPerioada de valabilitate: de la 21.08.2025 până la 20.08.2026\nPrima de asigurare: 1433,00 lei\nData emiterii: 19.08.2025\nAsigurătorul acordă despăgubiri pentru prejudiciile de care asiguratul răspunde în baza legii\nfață de terțe persoane prejudiciate prin accidente de vehicule, precum și pentru cheltuielile\nfăcute de asigurat în procesul civil.\nPrezenta poliță a fost emisă în conformitate cu prevederile Legii nr. 132/2017 privind\nasigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin\naccidente de vehicule și tramvaie și ale normelor emise de Autoritatea de Supraveghere\nFinanciară.\nÎn caz de producere a unui eveniment asigurat, contactați asigurătorul în termen de 24 de ore\nși completați formularul de constatare amiabilă a accidentului."
+    }
+   ]
+  },
+  {
+   "id": "itp-1",
+   "kind": "itp",
+   "flat": false,
+   "fields": {
+    "plate": "B-797-NCA",
+    "vin": "WVWF45H4JXLDL9F23"
+   },
+   "deadlines": [
+    {
+     "kind": "itp_expiry",
+     "date": "2028-08-20"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/itp-1-p1.jpg",
+     "clean": "clean/itp-1-p1.png",
+     "corners": [
+      [
+       121.5,
+       141.2
+      ],
+      [
+       1437.5,
+       7.8
+      ],
+      [
+       1677.3,
+       2035.0
+      ],
+      [
+       154.9,
+       2225.0
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "REGISTRUL AUTO ROMÂN\nStația ITP nr. 3323 - București\nRAPORT DE INSPECȚIE TEHNICĂ PERIODICĂ\nNr. 1442652 din 21.08.2026\nNumăr de înmatriculare: B-797-NCA\nMarca / Model: VOLKSWAGEN GOLF\nVIN: WVWF45H4JXLDL9F23\nKilometraj: 47000 km\nData inspecției: 21.08.2026\nRezultat: ADMIS\nUrmătoarea inspecție până la: 20.08.2028\nDefecte constatate: niciun defect major. Recomandare: verificarea uzurii plăcuțelor de frână la\nurmătoarea revizie.\nInspectorul tehnic certifică faptul că vehiculul a fost inspectat conform Ordinului MTI nr.\n2133/2005."
+    }
+   ]
+  },
+  {
+   "id": "itp-2",
+   "kind": "itp",
+   "flat": true,
+   "fields": {
+    "plate": "TM-87-NUA",
+    "vin": "TMBZ01WHTSY0099MB"
+   },
+   "deadlines": [
+    {
+     "kind": "itp_expiry",
+     "date": "2028-05-12"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/itp-2-p1.jpg",
+     "clean": "clean/itp-2-p1.png",
+     "corners": [
+      [
+       77.0,
+       36.0
+      ],
+      [
+       1723.0,
+       36.0
+      ],
+      [
+       1723.0,
+       2364.0
+      ],
+      [
+       77.0,
+       2364.0
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "REGISTRUL AUTO ROMÂN\nStația ITP nr. 4426 - Timișoara\nRAPORT DE INSPECȚIE TEHNICĂ PERIODICĂ\nNr. 7977209 din 13.05.2026\nNumăr de înmatriculare: TM-87-NUA\nMarca / Model: SKODA OCTAVIA\nVIN: TMBZ01WHTSY0099MB\nKilometraj: 127000 km\nData inspecției: 13.05.2026\nRezultat: ADMIS\nUrmătoarea inspecție până la: 12.05.2028\nDefecte constatate: niciun defect major. Recomandare: verificarea uzurii plăcuțelor de frână la\nurmătoarea revizie.\nInspectorul tehnic certifică faptul că vehiculul a fost inspectat conform Ordinului MTI nr.\n2133/2005."
+    }
+   ]
+  },
+  {
+   "id": "casco-1",
+   "kind": "casco",
+   "flat": false,
+   "fields": {
+    "plate": "B-797-NCA",
+    "insurer": "Groupama Asigurări S.A."
+   },
+   "deadlines": [
+    {
+     "kind": "casco_expiry",
+     "date": "2027-07-21"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/casco-1-p1.jpg",
+     "clean": "clean/casco-1-p1.png",
+     "corners": [
+      [
+       473.7,
+       408.8
+      ],
+      [
+       1535.5,
+       458.6
+      ],
+      [
+       1549.7,
+       1941.4
+      ],
+      [
+       443.2,
+       2025.6
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "Groupama Asigurări S.A.\nPOLIȚĂ DE ASIGURARE CASCO\nNr. poliță: CA513055436\nAsigurat: Irina Marinescu\nAutoturism: VOLKSWAGEN GOLF, nr. înmatriculare B-797-NCA\nSumă asigurată: 17000 EUR\nFranșiză: 100 EUR\nValabilă de la 22.07.2026 până la 21.07.2027\nRate: 4 rate trimestriale\nPolița acoperă avariile și furtul autovehiculului asigurat, pe teritoriul României și al\nțărilor din Spațiul Economic European, în condițiile generale anexate.\nDaunele se avizează în termen de 48 de ore de la producerea evenimentului, la numărul de\ntelefon de pe verso."
+    }
+   ]
+  },
+  {
+   "id": "casco-2",
+   "kind": "casco",
+   "flat": false,
+   "fields": {
+    "plate": "CJ-13-HZP",
+    "insurer": "Groupama Asigurări S.A."
+   },
+   "deadlines": [
+    {
+     "kind": "casco_expiry",
+     "date": "2027-08-21"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/casco-2-p1.jpg",
+     "clean": "clean/casco-2-p1.png",
+     "corners": [
+      [
+       105.4,
+       1.9
+      ],
+      [
+       1462.2,
+       25.9
+      ],
+      [
+       1558.5,
+       2087.4
+      ],
+      [
+       83.1,
+       2000.7
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "Groupama Asigurări S.A.\nPOLIȚĂ DE ASIGURARE CASCO\nNr. poliță: CA852876983\nAsigurat: Bogdan Popa\nAutoturism: RENAULT CLIO, nr. înmatriculare CJ-13-HZP\nSumă asigurată: 22000 EUR\nFranșiză: 300 EUR\nValabilă de la 22.08.2026 până la 21.08.2027\nRate: 4 rate trimestriale\nPolița acoperă avariile și furtul autovehiculului asigurat, pe teritoriul României și al\nțărilor din Spațiul Economic European, în condițiile generale anexate.\nDaunele se avizează în termen de 48 de ore de la producerea evenimentului, la numărul de\ntelefon de pe verso."
+    }
+   ]
+  },
+  {
+   "id": "passport-1",
+   "kind": "passport",
+   "flat": true,
+   "fields": {
+    "document_number": "686870189",
+    "holder": "Irina Marinescu"
+   },
+   "deadlines": [
+    {
+     "kind": "passport_expiry",
+     "date": "2023-01-23"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/passport-1-p1.jpg",
+     "clean": "clean/passport-1-p1.png",
+     "corners": [
+      [
+       36.0,
+       81.0
+      ],
+      [
+       2364.0,
+       81.0
+      ],
+      [
+       2364.0,
+       1719.0
+      ],
+      [
+       36.0,
+       1719.0
+      ]
+     ],
+     "size": [
+      2400,
+      1800
+     ],
+     "page_size": [
+      1476,
+      1039
+     ],
+     "text": "ROMÂNIA  ROMANIA  ROUMANIE\nPAȘAPORT  PASSPORT  PASSEPORT\nTip/Type P   Cod/Code ROU   Nr./No. 686870189\nNume/Surname\nMARINESCU\nPrenume/Given names\nIRINA\nCetățenie/Nationality ROMÂNĂ/ROU\nData nașterii/Date of birth 26 NOV 1982\nLocul nașterii/Place of birth BUCUREȘTI\nData eliberării/Date of issue 23 JAN 2018\nData expirării/Date of expiry 23 JAN 2023\nAutoritatea/Authority D.G.P.\nP<ROUMARINESCU<<IRINA<<<<<<<<<<<<<<<<<<<<<<<\n6868701890ROU8211261M2301232<<<<<<<<<<<<<<04"
+    }
+   ]
+  },
+  {
+   "id": "id-1",
+   "kind": "id_card",
+   "flat": false,
+   "fields": {
+    "document_number": "RX 450575",
+    "holder": "Irina Marinescu"
+   },
+   "deadlines": [
+    {
+     "kind": "id_card_expiry",
+     "date": "2036-03-29"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/id-1-p1.jpg",
+     "clean": "clean/id-1-p1.png",
+     "corners": [
+      [
+       240.2,
+       195.2
+      ],
+      [
+       2125.0,
+       568.2
+      ],
+      [
+       1943.3,
+       1769.4
+      ],
+      [
+       -57.4,
+       1515.1
+      ]
+     ],
+     "size": [
+      2400,
+      1800
+     ],
+     "page_size": [
+      1012,
+      638
+     ],
+     "text": "ROMÂNIA  ROUMANIE  ROMANIA\nCARTE DE IDENTITATE  IDENTITY CARD\nSERIA RX NR 450575\nNume/Nom/Last name\nMARINESCU\nPrenume/Prénom/First name\nIRINA\nDomiciliu: Bd. Iuliu Maniu nr. 62, București\nEmisă de SPCLEP București\nValabilitate 29.03.26-29.03.2036\nIDROUMARINESCU<<IRINA<<<<<<<<<<<<<<<\nRX450575<4ROU8211262M360329<<<<<<<<<"
+    }
+   ]
+  },
+  {
+   "id": "licence-1",
+   "kind": "driving_licence",
+   "flat": false,
+   "fields": {
+    "document_number": "738247065",
+    "holder": "Irina Marinescu"
+   },
+   "deadlines": [
+    {
+     "kind": "licence_expiry",
+     "date": "2029-01-13"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/licence-1-p1.jpg",
+     "clean": "clean/licence-1-p1.png",
+     "corners": [
+      [
+       294.4,
+       442.6
+      ],
+      [
+       1923.1,
+       201.1
+      ],
+      [
+       2096.5,
+       1232.0
+      ],
+      [
+       393.8,
+       1400.9
+      ]
+     ],
+     "size": [
+      2400,
+      1800
+     ],
+     "page_size": [
+      1012,
+      638
+     ],
+     "text": "PERMIS DE CONDUCERE   ROMÂNIA\n1. MARINESCU\n2. IRINA\n3. 26.11.1982 BUCUREȘTI\n4a. 13.01.2019   4c. DRPCIV BUCUREȘTI\n4b. 13.01.2029\n5. 738247065\n9. AM/B1/B"
+    }
+   ]
+  },
+  {
+   "id": "passport-2",
+   "kind": "passport",
+   "flat": true,
+   "fields": {
+    "document_number": "946952240",
+    "holder": "Elena Stoica"
+   },
+   "deadlines": [
+    {
+     "kind": "passport_expiry",
+     "date": "2030-09-17"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/passport-2-p1.jpg",
+     "clean": "clean/passport-2-p1.png",
+     "corners": [
+      [
+       36.0,
+       81.0
+      ],
+      [
+       2364.0,
+       81.0
+      ],
+      [
+       2364.0,
+       1719.0
+      ],
+      [
+       36.0,
+       1719.0
+      ]
+     ],
+     "size": [
+      2400,
+      1800
+     ],
+     "page_size": [
+      1476,
+      1039
+     ],
+     "text": "ROMÂNIA  ROMANIA  ROUMANIE\nPAȘAPORT  PASSPORT  PASSEPORT\nTip/Type P   Cod/Code ROU   Nr./No. 946952240\nNume/Surname\nSTOICA\nPrenume/Given names\nELENA\nCetățenie/Nationality ROMÂNĂ/ROU\nData nașterii/Date of birth 20 NOV 1965\nLocul nașterii/Place of birth TIMIȘOARA\nData eliberării/Date of issue 17 SEP 2020\nData expirării/Date of expiry 17 SEP 2030\nAutoritatea/Authority D.G.P.\nP<ROUSTOICA<<ELENA<<<<<<<<<<<<<<<<<<<<<<<<<<\n9469522400ROU6511201M3009172<<<<<<<<<<<<<<04"
+    }
+   ]
+  },
+  {
+   "id": "id-2",
+   "kind": "id_card",
+   "flat": false,
+   "fields": {
+    "document_number": "TM 966694",
+    "holder": "Elena Stoica"
+   },
+   "deadlines": [
+    {
+     "kind": "id_card_expiry",
+     "date": "2035-12-27"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/id-2-p1.jpg",
+     "clean": "clean/id-2-p1.png",
+     "corners": [
+      [
+       347.6,
+       576.5
+      ],
+      [
+       1792.6,
+       335.5
+      ],
+      [
+       1968.1,
+       1378.2
+      ],
+      [
+       407.8,
+       1591.1
+      ]
+     ],
+     "size": [
+      2400,
+      1800
+     ],
+     "page_size": [
+      1012,
+      638
+     ],
+     "text": "ROMÂNIA  ROUMANIE  ROMANIA\nCARTE DE IDENTITATE  IDENTITY CARD\nSERIA TM NR 966694\nNume/Nom/Last name\nSTOICA\nPrenume/Prénom/First name\nELENA\nDomiciliu: Calea Victoriei nr. 72, Timișoara\nEmisă de SPCLEP Timișoara\nValabilitate 27.12.25-27.12.2035\nIDROUSTOICA<<ELENA<<<<<<<<<<<<<<<<<<\nTM966694<5ROU6511206M351227<<<<<<<<<"
+    }
+   ]
+  },
+  {
+   "id": "licence-2",
+   "kind": "driving_licence",
+   "flat": false,
+   "fields": {
+    "document_number": "766223414",
+    "holder": "Elena Stoica"
+   },
+   "deadlines": [
+    {
+     "kind": "licence_expiry",
+     "date": "2031-10-08"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/licence-2-p1.jpg",
+     "clean": "clean/licence-2-p1.png",
+     "corners": [
+      [
+       474.9,
+       475.3
+      ],
+      [
+       2153.8,
+       407.1
+      ],
+      [
+       2146.2,
+       1391.3
+      ],
+      [
+       537.7,
+       1509.8
+      ]
+     ],
+     "size": [
+      2400,
+      1800
+     ],
+     "page_size": [
+      1012,
+      638
+     ],
+     "text": "PERMIS DE CONDUCERE   ROMÂNIA\n1. STOICA\n2. ELENA\n3. 20.11.1965 TIMIȘOARA\n4a. 08.10.2021   4c. DRPCIV TIMIȘOARA\n4b. 08.10.2031\n5. 766223414\n9. AM/B1/B"
+    }
+   ]
+  },
+  {
+   "id": "warranty-0",
+   "kind": "warranty",
+   "flat": true,
+   "fields": {
+    "product": "Mașină de spălat rufe Samsung",
+    "seller": "Flanco Retail"
+   },
+   "deadlines": [
+    {
+     "kind": "warranty_end",
+     "date": "2027-10-27"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/warranty-0-p1.jpg",
+     "clean": "clean/warranty-0-p1.png",
+     "corners": [
+      [
+       77.0,
+       36.0
+      ],
+      [
+       1723.0,
+       36.0
+      ],
+      [
+       1723.0,
+       2364.0
+      ],
+      [
+       77.0,
+       2364.0
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "Flanco Retail S.R.L.\nCUI RO42430840, J40/02323/2009\nCERTIFICAT DE GARANȚIE\nNr. 32480915\nProdus: Mașină de spălat rufe Samsung\nModel: WW90T554DAW\nSerie produs: S/N 8371A268747\nCumpărător: Irina Marinescu\nData vânzării: 27.10.2025\nFactura nr.: FLN66804027 din 27.10.2025\nTermen de garanție: 24 de luni\nCondiții de garanție\nGaranția se acordă conform Legii nr. 449/2003 și OUG nr. 140/2021 privind anumite aspecte\nreferitoare la contractele de vânzare de bunuri.\nTermenul de garanție curge de la data livrării produsului către consumator. Produsul va fi\nreparat sau înlocuit gratuit în cazul unui defect de fabricație.\nGaranția nu acoperă defectele cauzate de transport, montaj sau utilizare necorespunzătoare, de\nfluctuațiile de tensiune sau de intervenția persoanelor neautorizate.\nSemnătura și ștampila vânzătorului"
+    }
+   ]
+  },
+  {
+   "id": "warranty-1",
+   "kind": "warranty",
+   "flat": false,
+   "fields": {
+    "product": "Frigider Arctic",
+    "seller": "eMAG"
+   },
+   "deadlines": [
+    {
+     "kind": "warranty_end",
+     "date": "2029-06-24"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/warranty-1-p1.jpg",
+     "clean": "clean/warranty-1-p1.png",
+     "corners": [
+      [
+       287.1,
+       186.7
+      ],
+      [
+       1531.3,
+       31.8
+      ],
+      [
+       1489.1,
+       1988.5
+      ],
+      [
+       227.2,
+       2172.2
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "eMAG S.R.L.\nCUI RO68695125, J40/03161/2001\nCERTIFICAT DE GARANȚIE\nNr. 03019909\nProdus: Frigider Arctic\nModel: AK60406E40NFW\nSerie produs: SN9737F685361\nCumpărător: Irina Marinescu\nData vânzării: 24.06.2026\nFactura nr.: MGX50524179 din 24.06.2026\nTermen de garanție: 36 de luni\nCondiții de garanție\nGaranția se acordă conform Legii nr. 449/2003 și OUG nr. 140/2021 privind anumite aspecte\nreferitoare la contractele de vânzare de bunuri.\nTermenul de garanție curge de la data livrării produsului către consumator. Produsul va fi\nreparat sau înlocuit gratuit în cazul unui defect de fabricație.\nGaranția nu acoperă defectele cauzate de transport, montaj sau utilizare necorespunzătoare, de\nfluctuațiile de tensiune sau de intervenția persoanelor neautorizate.\nSemnătura și ștampila vânzătorului"
+    }
+   ]
+  },
+  {
+   "id": "warranty-2",
+   "kind": "warranty",
+   "flat": false,
+   "fields": {
+    "product": "Televizor LED LG",
+    "seller": "eMAG"
+   },
+   "deadlines": [
+    {
+     "kind": "warranty_end",
+     "date": "2027-09-26"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/warranty-2-p1.jpg",
+     "clean": "clean/warranty-2-p1.png",
+     "corners": [
+      [
+       362.4,
+       90.3
+      ],
+      [
+       1751.0,
+       330.5
+      ],
+      [
+       1468.0,
+       2213.9
+      ],
+      [
+       97.6,
+       2073.8
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "eMAG S.R.L.\nCUI RO33176565, J40/59675/2006\nCERTIFICAT DE GARANȚIE\nNr. 98951356\nProdus: Televizor LED LG\nModel: 55UR78003LK\nSerie produs: S/N 9928H445611\nCumpărător: Irina Marinescu\nData vânzării: 26.09.2024\nFactura nr.: MGX72582999 din 26.09.2024\nTermen de garanție: 36 de luni\nCondiții de garanție\nGaranția se acordă conform Legii nr. 449/2003 și OUG nr. 140/2021 privind anumite aspecte\nreferitoare la contractele de vânzare de bunuri.\nTermenul de garanție curge de la data livrării produsului către consumator. Produsul va fi\nreparat sau înlocuit gratuit în cazul unui defect de fabricație.\nGaranția nu acoperă defectele cauzate de transport, montaj sau utilizare necorespunzătoare, de\nfluctuațiile de tensiune sau de intervenția persoanelor neautorizate.\nSemnătura și ștampila vânzătorului"
+    }
+   ]
+  },
+  {
+   "id": "warranty-3",
+   "kind": "warranty",
+   "flat": true,
+   "fields": {
+    "product": "Laptop Lenovo",
+    "seller": "Flanco Retail"
+   },
+   "deadlines": [
+    {
+     "kind": "warranty_end",
+     "date": "2030-02-16"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/warranty-3-p1.jpg",
+     "clean": "clean/warranty-3-p1.png",
+     "corners": [
+      [
+       77.0,
+       36.0
+      ],
+      [
+       1723.0,
+       36.0
+      ],
+      [
+       1723.0,
+       2364.0
+      ],
+      [
+       77.0,
+       2364.0
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "Flanco Retail S.R.L.\nCUI RO45558971, J40/29635/2019\nCERTIFICAT DE GARANȚIE\nNr. 59524556\nProdus: Laptop Lenovo\nModel: IdeaPad Slim 5\nSerie produs: SN8581B427142\nCumpărător: Irina Marinescu\nData vânzării: 16.02.2025\nFactura nr.: DDM34133341 din 16.02.2025\nTermen de garanție: 60 de luni\nCondiții de garanție\nGaranția se acordă conform Legii nr. 449/2003 și OUG nr. 140/2021 privind anumite aspecte\nreferitoare la contractele de vânzare de bunuri.\nTermenul de garanție curge de la data livrării produsului către consumator. Produsul va fi\nreparat sau înlocuit gratuit în cazul unui defect de fabricație.\nGaranția nu acoperă defectele cauzate de transport, montaj sau utilizare necorespunzătoare, de\nfluctuațiile de tensiune sau de intervenția persoanelor neautorizate.\nSemnătura și ștampila vânzătorului"
+    }
+   ]
+  },
+  {
+   "id": "warranty-4",
+   "kind": "warranty",
+   "flat": false,
+   "fields": {
+    "product": "Aspirator robot Roborock",
+    "seller": "Media Galaxy"
+   },
+   "deadlines": [
+    {
+     "kind": "warranty_end",
+     "date": "2028-02-21"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/warranty-4-p1.jpg",
+     "clean": "clean/warranty-4-p1.png",
+     "corners": [
+      [
+       307.2,
+       299.4
+      ],
+      [
+       1614.8,
+       435.0
+      ],
+      [
+       1442.7,
+       1985.4
+      ],
+      [
+       347.9,
+       2016.9
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "Media Galaxy S.R.L.\nCUI RO27472767, J40/76543/2007\nCERTIFICAT DE GARANȚIE\nNr. 98789556\nProdus: Aspirator robot Roborock\nModel: S8\nSerie produs: S/N 2014G472869\nCumpărător: Irina Marinescu\nData vânzării: 21.02.2026\nFactura nr.: FLN24660207 din 21.02.2026\nTermen de garanție: 24 de luni\nCondiții de garanție\nGaranția se acordă conform Legii nr. 449/2003 și OUG nr. 140/2021 privind anumite aspecte\nreferitoare la contractele de vânzare de bunuri.\nTermenul de garanție curge de la data livrării produsului către consumator. Produsul va fi\nreparat sau înlocuit gratuit în cazul unui defect de fabricație.\nGaranția nu acoperă defectele cauzate de transport, montaj sau utilizare necorespunzătoare, de\nfluctuațiile de tensiune sau de intervenția persoanelor neautorizate.\nSemnătura și ștampila vânzătorului"
+    }
+   ]
+  },
+  {
+   "id": "rent-1",
+   "kind": "rent_contract",
+   "flat": false,
+   "fields": {
+    "seller": "Cristina Gheorghe",
+    "address": "Calea Victoriei nr. 16, bl. G9, ap. 25, București",
+    "amount": "420 euro"
+   },
+   "deadlines": [
+    {
+     "kind": "contract_end",
+     "date": "2027-12-31",
+     "notice_days": 30
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/rent-1-p1.jpg",
+     "clean": "clean/rent-1-p1.png",
+     "corners": [
+      [
+       236.7,
+       235.6
+      ],
+      [
+       1556.4,
+       288.8
+      ],
+      [
+       1530.1,
+       2349.0
+      ],
+      [
+       163.4,
+       2146.2
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "CONTRACT DE ÎNCHIRIERE nr. 66 din 30.12.2025\nI. PĂRȚILE CONTRACTANTE\n1.1. GHEORGHE CRISTINA, domiciliat(ă) în Calea Victoriei nr. 10, București, în calitate de\nLOCATOR, și\n1.2. MARINESCU IRINA, domiciliat(ă) în Bd. Iuliu Maniu nr. 62, București, în calitate de\nLOCATAR,\nau convenit încheierea prezentului contract de închiriere, cu respectarea următoarelor\nclauze:\nII. OBIECTUL CONTRACTULUI\n2.1. Locatorul închiriază locatarului apartamentul situat în Calea Victoriei nr. 16, bl. G9,\nap. 25, București, compus din 2 camere și dependințe, mobilat și utilat.\nIII. DURATA CONTRACTULUI\n3.1. Contractul se încheie pe o perioadă de 24 de luni, începând cu data de 01.01.2026.\n3.2. La expirarea termenului, contractul poate fi prelungit prin act adițional semnat de\nambele părți.\nIV. CHIRIA ȘI MODALITATEA DE PLATĂ\n4.1. Chiria lunară este de 420 euro, plătibilă în lei la cursul BNR din ziua plății, până la\ndata de 5 a fiecărei luni.\n4.2. La semnarea contractului locatarul achită o garanție de 420 euro, care se restituie la\nîncetarea contractului."
+    },
+    {
+     "photo": "photos/rent-1-p2.jpg",
+     "clean": "clean/rent-1-p2.png",
+     "corners": [
+      [
+       418.0,
+       450.1
+      ],
+      [
+       1695.3,
+       533.7
+      ],
+      [
+       1412.7,
+       2211.2
+      ],
+      [
+       158.0,
+       2033.1
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "V. OBLIGAȚIILE PĂRȚILOR\n5.1. Locatorul se obligă să predea locuința în stare normală de folosință și să asigure\nfolosința liniștită a acesteia pe toată durata contractului.\n5.2. Locatarul se obligă să plătească la termen chiria și cheltuielile de întreținere,\nenergie electrică, gaze și internet.\nVI. ÎNCETAREA CONTRACTULUI\n6.1. Oricare dintre părți poate denunța unilateral contractul cu un preaviz de 30 de zile,\nnotificat în scris.\n6.2. Contractul încetează de drept la expirarea duratei pentru care a fost încheiat, dacă nu\neste prelungit.\nVII. DISPOZIȚII FINALE\n7.1. Prezentul contract a fost încheiat în două exemplare originale, câte unul pentru fiecare\nparte, și va fi înregistrat la ANAF.\nLOCATOR                                              LOCATAR"
+    }
+   ]
+  },
+  {
+   "id": "rent-2",
+   "kind": "rent_contract",
+   "flat": true,
+   "fields": {
+    "seller": "Bogdan Popa",
+    "address": "Str. Mihai Eminescu nr. 30, bl. D9, ap. 59, Timișoara",
+    "amount": "420 euro"
+   },
+   "deadlines": [
+    {
+     "kind": "contract_end",
+     "date": "2028-07-31",
+     "notice_days": 30
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/rent-2-p1.jpg",
+     "clean": "clean/rent-2-p1.png",
+     "corners": [
+      [
+       77.0,
+       36.0
+      ],
+      [
+       1723.0,
+       36.0
+      ],
+      [
+       1723.0,
+       2364.0
+      ],
+      [
+       77.0,
+       2364.0
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "CONTRACT DE ÎNCHIRIERE nr. 33 din 10.07.2026\nI. PĂRȚILE CONTRACTANTE\n1.1. POPA BOGDAN, domiciliat(ă) în Aleea Teiului nr. 48, Cluj-Napoca, în calitate de LOCATOR,\nși\n1.2. STOICA ELENA, domiciliat(ă) în Calea Victoriei nr. 72, Timișoara, în calitate de\nLOCATAR,\nau convenit încheierea prezentului contract de închiriere, cu respectarea următoarelor\nclauze:\nII. OBIECTUL CONTRACTULUI\n2.1. Locatorul închiriază locatarului apartamentul situat în Str. Mihai Eminescu nr. 30, bl.\nD9, ap. 59, Timișoara, compus din 2 camere și dependințe, mobilat și utilat.\nIII. DURATA CONTRACTULUI\n3.1. Contractul se încheie pe o perioadă de 24 de luni, începând cu data de 01.08.2026.\n3.2. La expirarea termenului, contractul poate fi prelungit prin act adițional semnat de\nambele părți.\nIV. CHIRIA ȘI MODALITATEA DE PLATĂ\n4.1. Chiria lunară este de 420 euro, plătibilă în lei la cursul BNR din ziua plății, până la\ndata de 5 a fiecărei luni.\n4.2. La semnarea contractului locatarul achită o garanție de 420 euro, care se restituie la\nîncetarea contractului."
+    },
+    {
+     "photo": "photos/rent-2-p2.jpg",
+     "clean": "clean/rent-2-p2.png",
+     "corners": [
+      [
+       77.0,
+       36.0
+      ],
+      [
+       1723.0,
+       36.0
+      ],
+      [
+       1723.0,
+       2364.0
+      ],
+      [
+       77.0,
+       2364.0
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "V. OBLIGAȚIILE PĂRȚILOR\n5.1. Locatorul se obligă să predea locuința în stare normală de folosință și să asigure\nfolosința liniștită a acesteia pe toată durata contractului.\n5.2. Locatarul se obligă să plătească la termen chiria și cheltuielile de întreținere,\nenergie electrică, gaze și internet.\nVI. ÎNCETAREA CONTRACTULUI\n6.1. Oricare dintre părți poate denunța unilateral contractul cu un preaviz de 30 de zile,\nnotificat în scris.\n6.2. Contractul încetează de drept la expirarea duratei pentru care a fost încheiat, dacă nu\neste prelungit.\nVII. DISPOZIȚII FINALE\n7.1. Prezentul contract a fost încheiat în două exemplare originale, câte unul pentru fiecare\nparte, și va fi înregistrat la ANAF.\nLOCATOR                                              LOCATAR"
+    }
+   ]
+  },
+  {
+   "id": "invoice-0",
+   "kind": "invoice",
+   "flat": false,
+   "fields": {
+    "seller": "Enel Energie Muntenia S.A.",
+    "amount": "109,26 lei"
+   },
+   "deadlines": [
+    {
+     "kind": "invoice_due",
+     "date": "2026-11-04"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/invoice-0-p1.jpg",
+     "clean": "clean/invoice-0-p1.png",
+     "corners": [
+      [
+       427.6,
+       400.1
+      ],
+      [
+       1437.0,
+       546.9
+      ],
+      [
+       1292.0,
+       2111.7
+      ],
+      [
+       177.4,
+       2012.8
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "Enel Energie Muntenia S.A.\nFurnizor de energie electrică\nFACTURĂ FISCALĂ\nSeria ENM nr. 81340887\nClient: Irina Marinescu\nAdresa locului de consum: Bd. Iuliu Maniu nr. 62, București\nCod client: 1798290640\nData facturii: 15.10.2026\nPerioada de facturare: 14.09.2026 - 13.10.2026\nValoare fără TVA: 109,26 lei\nTotal de plată: 109,26 lei\nData scadenței: 04.11.2026\nPlata se poate face online, prin internet banking, la bancomatele partenere sau în magazinele cu\nserviciul de încasare facturi. Neplata la termen atrage penalități de 0,04% pe zi."
+    }
+   ]
+  },
+  {
+   "id": "invoice-1",
+   "kind": "invoice",
+   "flat": false,
+   "fields": {
+    "seller": "Engie Romania S.A.",
+    "amount": "475,51 lei"
+   },
+   "deadlines": [
+    {
+     "kind": "invoice_due",
+     "date": "2026-11-03"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/invoice-1-p1.jpg",
+     "clean": "clean/invoice-1-p1.png",
+     "corners": [
+      [
+       349.7,
+       103.0
+      ],
+      [
+       1702.2,
+       164.2
+      ],
+      [
+       1561.5,
+       2160.1
+      ],
+      [
+       109.3,
+       2039.2
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "Engie Romania S.A.\nFurnizor de gaze naturale\nFACTURĂ FISCALĂ\nSeria EGR nr. 11887886\nClient: Irina Marinescu\nAdresa locului de consum: Bd. Iuliu Maniu nr. 62, București\nCod client: 8085620518\nData facturii: 14.10.2026\nPerioada de facturare: 12.09.2026 - 11.10.2026\nValoare fără TVA: 475,51 lei\nTotal de plată: 475,51 lei\nData scadenței: 03.11.2026\nPlata se poate face online, prin internet banking, la bancomatele partenere sau în magazinele cu\nserviciul de încasare facturi. Neplata la termen atrage penalități de 0,04% pe zi."
+    }
+   ]
+  },
+  {
+   "id": "invoice-2",
+   "kind": "invoice",
+   "flat": true,
+   "fields": {
+    "seller": "Digi Romania S.A.",
+    "amount": "204,28 lei"
+   },
+   "deadlines": [
+    {
+     "kind": "invoice_due",
+     "date": "2026-11-19"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/invoice-2-p1.jpg",
+     "clean": "clean/invoice-2-p1.png",
+     "corners": [
+      [
+       77.0,
+       36.0
+      ],
+      [
+       1723.0,
+       36.0
+      ],
+      [
+       1723.0,
+       2364.0
+      ],
+      [
+       77.0,
+       2364.0
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "Digi Romania S.A.\nFurnizor de internet și televiziune\nFACTURĂ FISCALĂ\nSeria DGR nr. 46486810\nClient: Irina Marinescu\nAdresa locului de consum: Bd. Iuliu Maniu nr. 62, București\nCod client: 4545110121\nData facturii: 20.10.2026\nPerioada de facturare: 18.09.2026 - 17.10.2026\nValoare fără TVA: 204,28 lei\nTotal de plată: 204,28 lei\nData scadenței: 19.11.2026\nPlata se poate face online, prin internet banking, la bancomatele partenere sau în magazinele cu\nserviciul de încasare facturi. Neplata la termen atrage penalități de 0,04% pe zi."
+    }
+   ]
+  },
+  {
+   "id": "invoice-3",
+   "kind": "invoice",
+   "flat": false,
+   "fields": {
+    "seller": "Apa Nova București S.A.",
+    "amount": "447,64 lei"
+   },
+   "deadlines": [
+    {
+     "kind": "invoice_due",
+     "date": "2026-11-02"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/invoice-3-p1.jpg",
+     "clean": "clean/invoice-3-p1.png",
+     "corners": [
+      [
+       129.6,
+       451.1
+      ],
+      [
+       1360.0,
+       319.8
+      ],
+      [
+       1630.3,
+       2104.9
+      ],
+      [
+       215.6,
+       2320.9
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "Apa Nova București S.A.\nFurnizor de apă și canalizare\nFACTURĂ FISCALĂ\nSeria APN nr. 82285360\nClient: Irina Marinescu\nAdresa locului de consum: Bd. Iuliu Maniu nr. 62, București\nCod client: 2479752404\nData facturii: 18.10.2026\nPerioada de facturare: 17.09.2026 - 16.10.2026\nValoare fără TVA: 447,64 lei\nTotal de plată: 447,64 lei\nData scadenței: 02.11.2026\nPlata se poate face online, prin internet banking, la bancomatele partenere sau în magazinele cu\nserviciul de încasare facturi. Neplata la termen atrage penalități de 0,04% pe zi."
+    }
+   ]
+  },
+  {
+   "id": "invoice-4",
+   "kind": "invoice",
+   "flat": false,
+   "fields": {
+    "seller": "Enel Energie Muntenia S.A.",
+    "amount": "131,02 lei"
+   },
+   "deadlines": [
+    {
+     "kind": "invoice_due",
+     "date": "2026-10-01"
+    }
+   ],
+   "pages": [
+    {
+     "photo": "photos/invoice-4-p1.jpg",
+     "clean": "clean/invoice-4-p1.png",
+     "corners": [
+      [
+       222.6,
+       80.6
+      ],
+      [
+       1414.6,
+       231.9
+      ],
+      [
+       1510.9,
+       1933.9
+      ],
+      [
+       241.9,
+       1995.6
+      ]
+     ],
+     "size": [
+      1800,
+      2400
+     ],
+     "page_size": [
+      1654,
+      2339
+     ],
+     "text": "Enel Energie Muntenia S.A.\nFurnizor de energie electrică\nFACTURĂ FISCALĂ\nSeria ENM nr. 95541975\nClient: Irina Marinescu\nAdresa locului de consum: Bd. Iuliu Maniu nr. 62, București\nCod client: 6550948898\nData facturii: 11.09.2026\nPerioada de facturare: 10.08.2026 - 09.09.2026\nValoare fără TVA: 131,02 lei\nTotal de plată: 131,02 lei\nData scadenței: 01.10.2026\nPlata se poate face online, prin internet banking, la bancomatele partenere sau în magazinele cu\nserviciul de încasare facturi. Neplata la termen atrage penalități de 0,04% pe zi."
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "document": "rca-1",
+   "question": "Până când e valabil RCA-ul pentru B-797-NCA?",
+   "page": 1,
+   "date": "2027-08-20"
+  },
+  {
+   "document": "rca-1",
+   "question": "La ce firmă am asigurarea RCA pentru Volkswagen Golf?",
+   "page": 1,
+   "text": "Generali"
+  },
+  {
+   "document": "talon-1",
+   "question": "Când trebuie să fac ITP la mașina B-797-NCA?",
+   "page": 1,
+   "date": "2028-08-20",
+   "also": [
+    "itp-1"
+   ]
+  },
+  {
+   "document": "talon-1",
+   "question": "Care e seria de șasiu a mașinii B-797-NCA?",
+   "page": 1,
+   "text": "WVWF45H4JXLDL9F23"
+  },
+  {
+   "document": "rca-2",
+   "question": "Până când e valabil RCA-ul pentru TM-87-NUA?",
+   "page": 1,
+   "date": "2027-09-25"
+  },
+  {
+   "document": "rca-2",
+   "question": "La ce firmă am asigurarea RCA pentru Skoda Octavia?",
+   "page": 1,
+   "text": "Generali"
+  },
+  {
+   "document": "talon-2",
+   "question": "Când trebuie să fac ITP la mașina TM-87-NUA?",
+   "page": 1,
+   "date": "2028-05-12",
+   "also": [
+    "itp-2"
+   ]
+  },
+  {
+   "document": "talon-2",
+   "question": "Care e seria de șasiu a mașinii TM-87-NUA?",
+   "page": 1,
+   "text": "TMBZ01WHTSY0099MB"
+  },
+  {
+   "document": "rca-3",
+   "question": "Până când e valabil RCA-ul pentru CJ-13-HZP?",
+   "page": 1,
+   "date": "2027-08-09"
+  },
+  {
+   "document": "rca-3",
+   "question": "La ce firmă am asigurarea RCA pentru Renault Clio?",
+   "page": 1,
+   "text": "Allianz-Țiriac"
+  },
+  {
+   "document": "talon-3",
+   "question": "Când trebuie să fac ITP la mașina CJ-13-HZP?",
+   "page": 1,
+   "date": "2026-12-12"
+  },
+  {
+   "document": "talon-3",
+   "question": "Care e seria de șasiu a mașinii CJ-13-HZP?",
+   "page": 1,
+   "text": "C1PGRMEUC4U8ZD960"
+  },
+  {
+   "document": "itp-1",
+   "question": "Ce rezultat a avut inspecția tehnică din 21.08.2026?",
+   "page": 1,
+   "text": "ADMIS"
+  },
+  {
+   "document": "itp-2",
+   "question": "Ce rezultat a avut inspecția tehnică din 13.05.2026?",
+   "page": 1,
+   "text": "ADMIS"
+  },
+  {
+   "document": "casco-1",
+   "question": "Când expiră asigurarea CASCO pentru B-797-NCA?",
+   "page": 1,
+   "date": "2027-07-21"
+  },
+  {
+   "document": "casco-2",
+   "question": "Când expiră asigurarea CASCO pentru CJ-13-HZP?",
+   "page": 1,
+   "date": "2027-08-21"
+  },
+  {
+   "document": "passport-1",
+   "question": "Când expiră pașaportul lui Irina?",
+   "page": 1,
+   "date": "2023-01-23"
+  },
+  {
+   "document": "id-1",
+   "question": "Până când e valabil buletinul lui Irina Marinescu?",
+   "page": 1,
+   "date": "2036-03-29"
+  },
+  {
+   "document": "licence-1",
+   "question": "Când expiră permisul de conducere al lui Irina?",
+   "page": 1,
+   "date": "2029-01-13"
+  },
+  {
+   "document": "passport-2",
+   "question": "Când expiră pașaportul lui Elena?",
+   "page": 1,
+   "date": "2030-09-17"
+  },
+  {
+   "document": "id-2",
+   "question": "Până când e valabil buletinul lui Elena Stoica?",
+   "page": 1,
+   "date": "2035-12-27"
+  },
+  {
+   "document": "licence-2",
+   "question": "Când expiră permisul de conducere al lui Elena?",
+   "page": 1,
+   "date": "2031-10-08"
+  },
+  {
+   "document": "warranty-0",
+   "question": "Când expiră garanția la mașină de spălat?",
+   "page": 1,
+   "date": "2027-10-27"
+  },
+  {
+   "document": "warranty-0",
+   "question": "De unde am cumpărat mașină Samsung?",
+   "page": 1,
+   "text": "Flanco"
+  },
+  {
+   "document": "warranty-1",
+   "question": "Când expiră garanția la frigider?",
+   "page": 1,
+   "date": "2029-06-24"
+  },
+  {
+   "document": "warranty-1",
+   "question": "De unde am cumpărat frigider Arctic?",
+   "page": 1,
+   "text": "eMAG"
+  },
+  {
+   "document": "warranty-2",
+   "question": "Când expiră garanția la televizor?",
+   "page": 1,
+   "date": "2027-09-26"
+  },
+  {
+   "document": "warranty-2",
+   "question": "De unde am cumpărat televizor LG?",
+   "page": 1,
+   "text": "eMAG"
+  },
+  {
+   "document": "warranty-3",
+   "question": "Când expiră garanția la laptop?",
+   "page": 1,
+   "date": "2030-02-16"
+  },
+  {
+   "document": "warranty-3",
+   "question": "De unde am cumpărat laptop Lenovo?",
+   "page": 1,
+   "text": "Flanco"
+  },
+  {
+   "document": "warranty-4",
+   "question": "Când expiră garanția la aspirator robot?",
+   "page": 1,
+   "date": "2028-02-21"
+  },
+  {
+   "document": "warranty-4",
+   "question": "De unde am cumpărat aspirator Roborock?",
+   "page": 1,
+   "text": "Media"
+  },
+  {
+   "document": "rent-1",
+   "question": "Câtă chirie plătesc pentru apartamentul de pe Calea Victoriei?",
+   "page": 1,
+   "text": "420"
+  },
+  {
+   "document": "rent-1",
+   "question": "Cu câte zile înainte trebuie să anunț dacă vreau să mă mut din apartamentul de pe Calea Victoriei?",
+   "page": 2,
+   "text": "30"
+  },
+  {
+   "document": "rent-1",
+   "question": "Când se termină contractul de închiriere pentru apartamentul de pe Calea Victoriei?",
+   "page": 1,
+   "date": "2027-12-31"
+  },
+  {
+   "document": "rent-2",
+   "question": "Câtă chirie plătesc pentru apartamentul de pe Str. Mihai Eminescu?",
+   "page": 1,
+   "text": "420"
+  },
+  {
+   "document": "rent-2",
+   "question": "Cu câte zile înainte trebuie să anunț dacă vreau să mă mut din apartamentul de pe Str. Mihai Eminescu?",
+   "page": 2,
+   "text": "30"
+  },
+  {
+   "document": "rent-2",
+   "question": "Când se termină contractul de închiriere pentru apartamentul de pe Str. Mihai Eminescu?",
+   "page": 1,
+   "date": "2028-07-31"
+  },
+  {
+   "document": "invoice-0",
+   "question": "Până când trebuie plătită factura de la Enel din octombrie?",
+   "page": 1,
+   "date": "2026-11-04"
+  },
+  {
+   "document": "invoice-0",
+   "question": "Cât am de plată la factura Enel din octombrie?",
+   "page": 1,
+   "text": "109,26"
+  },
+  {
+   "document": "invoice-1",
+   "question": "Până când trebuie plătită factura de la Engie din octombrie?",
+   "page": 1,
+   "date": "2026-11-03"
+  },
+  {
+   "document": "invoice-1",
+   "question": "Cât am de plată la factura Engie din octombrie?",
+   "page": 1,
+   "text": "475,51"
+  },
+  {
+   "document": "invoice-2",
+   "question": "Până când trebuie plătită factura de la Digi din octombrie?",
+   "page": 1,
+   "date": "2026-11-19"
+  },
+  {
+   "document": "invoice-2",
+   "question": "Cât am de plată la factura Digi din octombrie?",
+   "page": 1,
+   "text": "204,28"
+  },
+  {
+   "document": "invoice-3",
+   "question": "Până când trebuie plătită factura de la Apa din octombrie?",
+   "page": 1,
+   "date": "2026-11-02"
+  },
+  {
+   "document": "invoice-3",
+   "question": "Cât am de plată la factura Apa din octombrie?",
+   "page": 1,
+   "text": "447,64"
+  },
+  {
+   "document": "invoice-4",
+   "question": "Până când trebuie plătită factura de la Enel din septembrie?",
+   "page": 1,
+   "date": "2026-10-01"
+  },
+  {
+   "document": "invoice-4",
+   "question": "Cât am de plată la factura Enel din septembrie?",
+   "page": 1,
+   "text": "131,02"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+* text=auto
+*.sh text eol=lf
+gradlew text eol=lf
+*.bat text eol=crlf
+*.jpg binary
+*.png binary
+*.traineddata binary
+*.jar binary
+# Generated fixtures are compared byte for byte.
+testdata/** -text

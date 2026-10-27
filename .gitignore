@@ -1,0 +1,24 @@
+# Downloaded or built dependencies and models (scripts/ fetch them)
+/models/
+/tools/llama.cpp/
+/native/third_party/
+/native/build/
+/build/
+
+# Rust, Gradle, Python
+/core/target/
+/android/.gradle/
+/android/build/
+/android/app/build/
+/android/app/.cxx/
+/android/local.properties
+__pycache__/
+*.pyc
+
+# Editors and OS
+.idea/
+.vs/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
