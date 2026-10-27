@@ -97,7 +97,7 @@ jobs:
           ( bash scripts/fetch-deps.sh android
             for abi in arm64-v8a x86_64; do
               [ -f native/third_party/install/android-$abi/lib/libtesseract.a ] || bash scripts/build-deps.sh android $abi
-            done ) 2>&1 | tee deps.log || { echo "::error::$(grep -iE 'error|fail' deps.log | tail -15 | tr '\n' ' ')"; exit 1; }
+            done ) 2>&1 | tee deps.log || { echo "::error::$(tail -12 deps.log | tr '\n' ' ')"; exit 1; }
       - name: Build the app
         working-directory: android
         env:
